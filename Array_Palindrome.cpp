@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+/*Checks if array is palindrome...Basic code*/
 int main()
 {
     int i,size;

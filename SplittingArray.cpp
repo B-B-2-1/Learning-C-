@@ -1,5 +1,8 @@
 #include <iostream>
 using namespace std;
+/*
+Splitting array in half
+*/
 
 int main()
 {

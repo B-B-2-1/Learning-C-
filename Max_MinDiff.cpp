@@ -1,5 +1,9 @@
 #include <iostream>
 using namespace std;
+/*
+Find the indices of numbers with maximum and minimum difference
+in an array.
+*/
 
 int main()
 {
