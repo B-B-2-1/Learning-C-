@@ -1,0 +1,4973 @@
+Hulk Attacked Thor with power 106.8
+Thor's Defence absorbed 32.25 points
+Thor has 45.45 HP remaining
+Thor Attacked Hulk with power 89.7
+Hulk's Defence absorbed 0 points
+Hulk has 50.3 HP remaining
+Hulk Attacked Thor with power 86.4
+Thor's Defence absorbed 24 points
+Thor has 0 HP remaining
+Battle Over.Hulk is the winner
+Hulk Attacked Thor with power 105.6
+Thor's Defence absorbed 11.25 points
+Thor has 25.65 HP remaining
+Thor Attacked Hulk with power 86.25
+Hulk's Defence absorbed 16.4 points
+Hulk has 70.15 HP remaining
+Hulk Attacked Thor with power 90
+Thor's Defence absorbed 0 points
+Thor has 0 HP remaining
+Battle Over.Hulk is the winner
+Hulk attacks first
+Hulk Attacked Thor with power 106.8
+Thor's Defence absorbed 41.25 points
+Thor has 54.45 HP remaining
+Thor Attacked Hulk with power 106.95
+Hulk's Defence absorbed 12.6 points
+Hulk has 45.65 HP remaining
+Hulk Attacked Thor with power 116.4
+Thor's Defence absorbed 24.75 points
+Thor has 0 HP remaining
+Battle Over.Hulk is the winner
+Hulk attacks first
+Hulk Attacked Thor with power 112.8
+Thor's Defence absorbed 36 points
+Thor has 43.2 HP remaining
+Thor Attacked Hulk with power 92
+Hulk's Defence absorbed 10.2 points
+Hulk has 58.2 HP remaining
+Hulk Attacked Thor with power 118.8
+Thor's Defence absorbed 17.25 points
+Thor has 0 HP remaining
+Battle Over.Hulk is the winner
+Hulk attacks first
+Hulk Attacked Thor with power 117.6
+Thor's Defence absorbed 40.5 points
+Thor has 42.9 HP remaining
+Thor Attacked Hulk with power 109.25
+Hulk's Defence absorbed 14 points
+Hulk has 44.75 HP remaining
+Hulk Attacked Thor with power 90
+Thor's Defence absorbed 66 points
+Thor has 18.9 HP remaining
+Thor Attacked Hulk with power 108.1
+Hulk Blocked the attack
+Hulk has 44.75 HP remaining
+Hulk Attacked Thor with power 110.4
+Thor's Defence absorbed 71.25 points
+Thor has 0 HP remaining
+Battle Over.Hulk is the winner
+Thor attacks first
+Thor Attacked Hulk with power 85.1
+Hulk's Defence absorbed 0 points
+Hulk has 54.9 HP remaining
+Hulk Attacked Thor with power 98.4
+Thor's Defence absorbed 15 points
+Thor has 36.6 HP remaining
+Thor Attacked Hulk with power 82.8
+Hulk's Defence absorbed 11.8 points
+Hulk has 0 HP remaining
+Battle Over.Thor is the winner
+
+Hulk attacks first
+Hulk Attacked Thor with power 100.8
+Thor's Defence absorbed 70.5 points
+Thor has 89.7 HP remaining
+Thor Attacked Hulk with power 112.7
+Hulk's Defence absorbed 0 points
+Hulk has 27.3 HP remaining
+Hulk Attacked Thor with power 92.4
+Thor's Defence absorbed 16.5 points
+Thor has 13.8 HP remaining
+Thor Attacked Hulk with power 93.15
+Hulk's Defence absorbed 0 points
+Hulk has 0 HP remaining
+Battle Over.Thor is the winner
+
+Thor attacks first
+Thor Attacked Hulk with power 102.35
+Hulk's Defence absorbed 0 points
+Hulk has 1297.65 HP remaining
+Hulk Attacked Thor with power 97.2
+Thor's Defence absorbed 29.25 points
+Thor has 1132.05 HP remaining
+Thor Attacked Hulk with power 109.25
+Hulk's Defence absorbed 0 points
+Hulk has 1188.4 HP remaining
+Hulk Attacked Thor with power 115.2
+Thor's Defence absorbed 29.25 points
+Thor has 1046.1 HP remaining
+Thor Attacked Hulk with power 96.6
+Hulk's Defence absorbed 0 points
+Hulk has 1091.8 HP remaining
+Hulk Attacked Thor with power 111.6
+Thor's Defence absorbed 24.75 points
+Thor has 959.25 HP remaining
+Thor Attacked Hulk with power 102.35
+Hulk's Defence absorbed 0 points
+Hulk has 989.45 HP remaining
+Hulk Attacked Thor with power 102
+Thor's Defence absorbed 67.5 points
+Thor has 924.75 HP remaining
+Thor Attacked Hulk with power 104.65
+Hulk's Defence absorbed 13.2 points
+Hulk has 898 HP remaining
+Hulk Attacked Thor with power 104.4
+Thor's Defence absorbed 65.25 points
+Thor has 885.6 HP remaining
+Thor Attacked Hulk with power 90.85
+Hulk Blocked the attack
+Hulk has 898 HP remaining
+Hulk Attacked Thor with power 105.6
+Thor's Defence absorbed 32.25 points
+Thor has 812.25 HP remaining
+Thor Attacked Hulk with power 109.25
+Hulk's Defence absorbed 0 points
+Hulk has 788.75 HP remaining
+Hulk Attacked Thor with power 111.6
+Thor's Defence absorbed 13.5 points
+Thor has 714.15 HP remaining
+Thor Attacked Hulk with power 87.4
+Hulk's Defence absorbed 14.2 points
+Hulk has 715.55 HP remaining
+Hulk Attacked Thor with power 118.8
+Thor's Defence absorbed 23.25 points
+Thor has 618.6 HP remaining
+Thor Attacked Hulk with power 104.65
+Hulk's Defence absorbed 0 points
+Hulk has 610.9 HP remaining
+Hulk Attacked Thor with power 84
+Thor's Defence absorbed 22.5 points
+Thor has 557.1 HP remaining
+Thor Attacked Hulk with power 96.6
+Hulk's Defence absorbed 15.4 points
+Hulk has 529.7 HP remaining
+Hulk Attacked Thor with power 104.4
+Thor's Defence absorbed 66 points
+Thor has 518.7 HP remaining
+Thor Attacked Hulk with power 113.85
+Hulk's Defence absorbed 0 points
+Hulk has 415.85 HP remaining
+Hulk Attacked Thor with power 94.8
+Thor's Defence absorbed 69.75 points
+Thor has 493.65 HP remaining
+Thor Attacked Hulk with power 83.95
+Hulk's Defence absorbed 0 points
+Hulk has 331.9 HP remaining
+Hulk Attacked Thor with power 93.6
+Thor's Defence absorbed 0 points
+Thor has 400.05 HP remaining
+Thor Attacked Hulk with power 92
+Hulk's Defence absorbed 0 points
+Hulk has 239.9 HP remaining
+Hulk Attacked Thor with power 85.2
+Thor Blocked the attack
+Thor has 400.05 HP remaining
+Thor Attacked Hulk with power 105.8
+Hulk's Defence absorbed 16.8 points
+Hulk has 150.9 HP remaining
+Hulk Attacked Thor with power 114
+Thor's Defence absorbed 0 points
+Thor has 286.05 HP remaining
+Thor Attacked Hulk with power 112.7
+Hulk's Defence absorbed 16.6 points
+Hulk has 54.8 HP remaining
+Hulk Attacked Thor with power 86.4
+Thor's Defence absorbed 0 points
+Thor has 199.65 HP remaining
+Thor Attacked Hulk with power 112.7
+Hulk's Defence absorbed 0 points
+Hulk has 0 HP remaining
+Battle Over.Thor is the winner
+
+Hulk attacks first
+Hulk Attacked Thor with power 96
+Thor's Defence absorbed 67.5 points
+Thor has 1171.5 HP remaining
+Thor Attacked Hulk with power 83.95
+Hulk's Defence absorbed 0 points
+Hulk has 1316.05 HP remaining
+Hulk Attacked Thor with power 92.4
+Thor's Defence absorbed 65.25 points
+Thor has 1144.35 HP remaining
+Thor Attacked Hulk with power 87.4
+Hulk's Defence absorbed 0 points
+Hulk has 1228.65 HP remaining
+Hulk Attacked Thor with power 92.4
+Thor's Defence absorbed 45 points
+Thor has 1096.95 HP remaining
+Thor Attacked Hulk with power 98.9
+Hulk Blocked the attack
+Hulk has 1228.65 HP remaining
+Hulk Attacked Thor with power 86.4
+Thor's Defence absorbed 35.25 points
+Thor has 1045.8 HP remaining
+Thor Attacked Hulk with power 83.95
+Hulk's Defence absorbed 17.6 points
+Hulk has 1162.3 HP remaining
+Hulk Attacked Thor with power 115.2
+Thor's Defence absorbed 0 points
+Thor has 930.6 HP remaining
+Thor Attacked Hulk with power 108.1
+Hulk's Defence absorbed 10.2 points
+Hulk has 1064.4 HP remaining
+Hulk Attacked Thor with power 114
+Thor's Defence absorbed 28.5 points
+Thor has 845.1 HP remaining
+Thor Attacked Hulk with power 108.1
+Hulk's Defence absorbed 14.6 points
+Hulk has 970.9 HP remaining
+Hulk Attacked Thor with power 118.8
+Thor's Defence absorbed 24 points
+Thor has 750.3 HP remaining
+Thor Attacked Hulk with power 94.3
+Hulk's Defence absorbed 0 points
+Hulk has 876.6 HP remaining
+Hulk Attacked Thor with power 103.2
+Thor's Defence absorbed 26.25 points
+Thor has 673.35 HP remaining
+Thor Attacked Hulk with power 101.2
+Hulk's Defence absorbed 0 points
+Hulk has 775.4 HP remaining
+Hulk Attacked Thor with power 100.8
+Thor's Defence absorbed 50.25 points
+Thor has 622.8 HP remaining
+Thor Attacked Hulk with power 80.5
+Hulk's Defence absorbed 0 points
+Hulk has 694.9 HP remaining
+Hulk Attacked Thor with power 93.6
+Thor's Defence absorbed 71.25 points
+Thor has 600.45 HP remaining
+Thor Attacked Hulk with power 93.15
+Hulk's Defence absorbed 14.4 points
+Hulk has 616.15 HP remaining
+Hulk Attacked Thor with power 97.2
+Thor's Defence absorbed 22.5 points
+Thor has 525.75 HP remaining
+Thor Attacked Hulk with power 106.95
+Hulk's Defence absorbed 0 points
+Hulk has 509.2 HP remaining
+Hulk Attacked Thor with power 114
+Thor's Defence absorbed 15 points
+Thor has 426.75 HP remaining
+Thor Attacked Hulk with power 101.2
+Hulk's Defence absorbed 0 points
+Hulk has 408 HP remaining
+Hulk Attacked Thor with power 109.2
+Thor's Defence absorbed 22.5 points
+Thor has 340.05 HP remaining
+Thor Attacked Hulk with power 89.7
+Hulk's Defence absorbed 11.4 points
+Hulk has 329.7 HP remaining
+Hulk Attacked Thor with power 84
+Thor's Defence absorbed 21.75 points
+Thor has 277.8 HP remaining
+Thor Attacked Hulk with power 106.95
+Hulk's Defence absorbed 0 points
+Hulk has 222.75 HP remaining
+Hulk Attacked Thor with power 91.2
+Thor's Defence absorbed 45.75 points
+Thor has 232.35 HP remaining
+Thor Attacked Hulk with power 105.8
+Hulk's Defence absorbed 10.6 points
+Hulk has 127.55 HP remaining
+Hulk Attacked Thor with power 116.4
+Thor's Defence absorbed 72 points
+Thor has 187.95 HP remaining
+Thor Attacked Hulk with power 108.1
+Hulk's Defence absorbed 0 points
+Hulk has 19.45 HP remaining
+Hulk Attacked Thor with power 94.8
+Thor's Defence absorbed 64.5 points
+Thor has 157.65 HP remaining
+Thor Attacked Hulk with power 87.4
+Hulk's Defence absorbed 0 points
+Hulk has 0 HP remaining
+Battle Over.Thor is the winner
+
+Thor attacks first
+Thor Attacked Masked Hero with power 94.3
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 16.7 HP remaining
+Masked Hero Attacked Thor with power 90.48
+Thor's Defence absorbed 21.75 points
+Thor has 1131.27 HP remaining
+Thor Attacked Masked Hero with power 110.4
+Masked Hero Blocked the attack
+Masked Hero has 16.7 HP remaining
+Masked Hero Attacked Thor with power 73.84
+Thor's Defence absorbed 64.5 points
+Thor has 1121.93 HP remaining
+Thor Attacked Masked Hero with power 81.65
+Masked Hero Blocked the attack
+Masked Hero has 16.7 HP remaining
+Masked Hero Attacked Thor with power 84.24
+Thor's Defence absorbed 51 points
+Thor has 1088.69 HP remaining
+Thor Attacked Masked Hero with power 105.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 0 HP remaining
+Battle Over.Thor is the winner
+
+Masked Hero attacks first
+Masked Hero Attacked Thor with power 97.76
+Thor's Defence absorbed 49.5 points
+Thor has 1151.74 HP remaining
+Thor Attacked Masked Hero with power 90.85
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 20.15 HP remaining
+Masked Hero Attacked Thor with power 91.52
+Thor's Defence absorbed 64.5 points
+Thor has 1124.72 HP remaining
+Thor Attacked Masked Hero with power 108.1
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 0 HP remaining
+Battle Over.Thor is the winner
+
+Thor attacks first
+Thor Attacked Masked Hero with power 104.65
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 936.35 HP remaining
+Masked Hero Attacked Thor with power 89.44
+Thor's Defence absorbed 46.5 points
+Thor has 1157.06 HP remaining
+Thor Attacked Masked Hero with power 111.55
+Masked Hero Blocked the attack
+Masked Hero has 936.35 HP remaining
+Masked Hero Attacked Thor with power 100.88
+Thor's Defence absorbed 0 points
+Thor has 1056.18 HP remaining
+Thor Attacked Masked Hero with power 109.25
+Masked Hero's Defence absorbed 12.75 points
+Masked Hero has 839.85 HP remaining
+Masked Hero Attacked Thor with power 101.92
+Thor's Defence absorbed 66.75 points
+Thor has 1021.01 HP remaining
+Thor Attacked Masked Hero with power 101.2
+Masked Hero's Defence absorbed 14.45 points
+Masked Hero has 753.1 HP remaining
+Masked Hero Attacked Thor with power 91.52
+Thor's Defence absorbed 39 points
+Thor has 968.49 HP remaining
+Thor Attacked Masked Hero with power 102.35
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 650.75 HP remaining
+Masked Hero Attacked Thor with power 89.44
+Thor's Defence absorbed 0 points
+Thor has 879.05 HP remaining
+Thor Attacked Masked Hero with power 100.05
+Masked Hero's Defence absorbed 13.26 points
+Masked Hero has 563.96 HP remaining
+Masked Hero Attacked Thor with power 99.84
+Thor's Defence absorbed 41.25 points
+Thor has 820.46 HP remaining
+Thor Attacked Masked Hero with power 106.95
+Masked Hero Blocked the attack
+Masked Hero has 563.96 HP remaining
+Masked Hero Attacked Thor with power 84.24
+Thor's Defence absorbed 54 points
+Thor has 790.22 HP remaining
+Thor Attacked Masked Hero with power 112.7
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 451.26 HP remaining
+Masked Hero Attacked Thor with power 87.36
+Thor's Defence absorbed 21.75 points
+Thor has 724.61 HP remaining
+Thor Attacked Masked Hero with power 90.85
+Masked Hero's Defence absorbed 11.22 points
+Masked Hero has 371.63 HP remaining
+Masked Hero Attacked Thor with power 95.68
+Thor's Defence absorbed 10.5 points
+Thor has 639.43 HP remaining
+Thor Attacked Masked Hero with power 109.25
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 262.38 HP remaining
+Masked Hero Attacked Thor with power 100.88
+Thor's Defence absorbed 11.25 points
+Thor has 549.8 HP remaining
+Thor Attacked Masked Hero with power 92
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 170.38 HP remaining
+Masked Hero Attacked Thor with power 100.88
+Thor's Defence absorbed 31.5 points
+Thor has 480.42 HP remaining
+Thor Attacked Masked Hero with power 89.7
+Masked Hero's Defence absorbed 14.45 points
+Masked Hero has 95.13 HP remaining
+Masked Hero Attacked Thor with power 99.84
+Thor's Defence absorbed 42 points
+Thor has 422.58 HP remaining
+Thor Attacked Masked Hero with power 80.5
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 14.63 HP remaining
+Masked Hero Attacked Thor with power 91.52
+Thor's Defence absorbed 34.5 points
+Thor has 365.56 HP remaining
+Thor Attacked Masked Hero with power 80.5
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 0 HP remaining
+Battle Over.Thor is the winner
+
+Masked Hero attacks first
+Masked Hero Attacked Thor with power 76.96
+Thor's Defence absorbed 63 points
+Thor has 1186.04 HP remaining
+Thor Attacked Masked Hero with power 82.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 958.2 HP remaining
+Masked Hero Attacked Thor with power 85.28
+Thor's Defence absorbed 16.5 points
+Thor has 1117.26 HP remaining
+Thor Attacked Masked Hero with power 108.1
+Masked Hero's Defence absorbed 13.09 points
+Masked Hero has 863.19 HP remaining
+Masked Hero Attacked Thor with power 74.88
+Thor's Defence absorbed 29.25 points
+Thor has 1071.63 HP remaining
+Thor Attacked Masked Hero with power 92
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 771.19 HP remaining
+Masked Hero Attacked Thor with power 72.8
+Thor's Defence absorbed 16.5 points
+Thor has 1015.33 HP remaining
+Thor Attacked Masked Hero with power 106.95
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 664.24 HP remaining
+Masked Hero Attacked Thor with power 75.92
+Thor's Defence absorbed 0 points
+Thor has 939.41 HP remaining
+Thor Attacked Masked Hero with power 85.1
+Masked Hero Blocked the attack
+Masked Hero has 664.24 HP remaining
+Masked Hero Attacked Thor with power 102.96
+Thor's Defence absorbed 15 points
+Thor has 851.45 HP remaining
+Thor Attacked Masked Hero with power 100.05
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 564.19 HP remaining
+Masked Hero Attacked Thor with power 86.32
+Thor's Defence absorbed 49.5 points
+Thor has 814.63 HP remaining
+Thor Attacked Masked Hero with power 94.3
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 469.89 HP remaining
+Masked Hero Attacked Thor with power 73.84
+Thor's Defence absorbed 30.75 points
+Thor has 771.54 HP remaining
+Thor Attacked Masked Hero with power 90.85
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 379.04 HP remaining
+Masked Hero Attacked Thor with power 73.84
+Thor's Defence absorbed 0 points
+Thor has 697.7 HP remaining
+Thor Attacked Masked Hero with power 92
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 287.04 HP remaining
+Masked Hero Attacked Thor with power 85.28
+Thor's Defence absorbed 70.5 points
+Thor has 682.92 HP remaining
+Thor Attacked Masked Hero with power 108.1
+Masked Hero's Defence absorbed 13.43 points
+Masked Hero has 192.37 HP remaining
+Masked Hero Attacked Thor with power 89.44
+Thor's Defence absorbed 37.5 points
+Thor has 630.98 HP remaining
+Thor Attacked Masked Hero with power 86.25
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 106.12 HP remaining
+Masked Hero Attacked Thor with power 91.52
+Thor's Defence absorbed 0 points
+Thor has 539.46 HP remaining
+Thor Attacked Masked Hero with power 82.8
+Masked Hero's Defence absorbed 14.96 points
+Masked Hero has 38.28 HP remaining
+Masked Hero Attacked Thor with power 98.8
+Thor's Defence absorbed 0 points
+Thor has 440.66 HP remaining
+Thor Attacked Masked Hero with power 112.7
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 0 HP remaining
+Battle Over.Thor is the winner
+
+Thor attacks first
+Thor Attacked Masked Hero with power 105.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 935.2 HP remaining
+Masked Hero Attacked Thor with power 94.64
+Thor's Defence absorbed 23.25 points
+Thor has 1128.61 HP remaining
+Thor Attacked Masked Hero with power 104.65
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 830.55 HP remaining
+Masked Hero Attacked Thor with power 96.72
+Thor's Defence absorbed 61.5 points
+Thor has 1093.39 HP remaining
+Thor Attacked Masked Hero with power 92
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 738.55 HP remaining
+Masked Hero Attacked Thor with power 80.08
+Thor's Defence absorbed 51.75 points
+Thor has 1065.06 HP remaining
+Thor Attacked Masked Hero with power 102.35
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 636.2 HP remaining
+Masked Hero Attacked Thor with power 72.8
+Thor's Defence absorbed 16.5 points
+Thor has 1008.76 HP remaining
+Thor Attacked Masked Hero with power 89.7
+Masked Hero's Defence absorbed 10.03 points
+Masked Hero has 556.53 HP remaining
+Masked Hero Attacked Thor with power 102.96
+Thor's Defence absorbed 0 points
+Thor has 905.8 HP remaining
+Thor Attacked Masked Hero with power 100.05
+Masked Hero Blocked the attack
+Masked Hero has 556.53 HP remaining
+Masked Hero Attacked Thor with power 90.48
+Thor's Defence absorbed 35.25 points
+Thor has 850.57 HP remaining
+Thor Attacked Masked Hero with power 94.3
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 462.23 HP remaining
+Masked Hero Attacked Thor with power 91.52
+Thor's Defence absorbed 26.25 points
+Thor has 785.3 HP remaining
+Thor Attacked Masked Hero with power 97.75
+Masked Hero's Defence absorbed 14.11 points
+Masked Hero has 378.59 HP remaining
+Masked Hero Attacked Thor with power 72.8
+Thor's Defence absorbed 64.5 points
+Thor has 777 HP remaining
+Thor Attacked Masked Hero with power 95.45
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 283.14 HP remaining
+Masked Hero Attacked Thor with power 96.72
+Thor's Defence absorbed 0 points
+Thor has 680.28 HP remaining
+Thor Attacked Masked Hero with power 90.85
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 192.29 HP remaining
+Masked Hero Attacked Thor with power 76.96
+Thor's Defence absorbed 71.25 points
+Thor has 674.57 HP remaining
+Thor Attacked Masked Hero with power 104.65
+Masked Hero's Defence absorbed 14.11 points
+Masked Hero has 101.75 HP remaining
+Masked Hero Attacked Thor with power 88.4
+Thor's Defence absorbed 35.25 points
+Thor has 621.42 HP remaining
+Thor Attacked Masked Hero with power 95.45
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 6.30001 HP remaining
+Masked Hero Attacked Thor with power 99.84
+Thor's Defence absorbed 60 points
+Thor has 581.58 HP remaining
+Thor Attacked Masked Hero with power 93.15
+Masked Hero Blocked the attack
+Masked Hero has 6.30001 HP remaining
+Masked Hero Attacked Thor with power 89.44
+Thor's Defence absorbed 21.75 points
+Thor has 513.89 HP remaining
+Thor Attacked Masked Hero with power 92
+Masked Hero's Defence absorbed 12.41 points
+Masked Hero has 0 HP remaining
+Battle Over.Thor is the winner
+
+Masked Hero attacks first
+Masked Hero Attacked Thor with power 99.84
+Thor's Defence absorbed 39 points
+Thor has 1139.16 HP remaining
+Thor Attacked Masked Hero with power 87.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 953.6 HP remaining
+Masked Hero Attacked Thor with power 78
+Thor's Defence absorbed 0 points
+Thor has 1061.16 HP remaining
+Thor Attacked Masked Hero with power 110.4
+Masked Hero Blocked the attack
+Masked Hero has 953.6 HP remaining
+Masked Hero Attacked Thor with power 100.88
+Thor's Defence absorbed 15.75 points
+Thor has 976.03 HP remaining
+Thor Attacked Masked Hero with power 100.05
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 853.55 HP remaining
+Masked Hero Attacked Thor with power 90.48
+Thor's Defence absorbed 0 points
+Thor has 885.55 HP remaining
+Thor Attacked Masked Hero with power 110.4
+Masked Hero's Defence absorbed 11.39 points
+Masked Hero has 754.54 HP remaining
+Masked Hero Attacked Thor with power 83.2
+Thor's Defence absorbed 16.5 points
+Thor has 818.85 HP remaining
+Thor Attacked Masked Hero with power 103.5
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 651.04 HP remaining
+Masked Hero Attacked Thor with power 79.04
+Thor's Defence absorbed 30.75 points
+Thor has 770.56 HP remaining
+Thor Attacked Masked Hero with power 94.3
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 556.74 HP remaining
+Masked Hero Attacked Thor with power 81.12
+Thor's Defence absorbed 62.25 points
+Thor has 751.69 HP remaining
+Thor Attacked Masked Hero with power 106.95
+Masked Hero's Defence absorbed 10.54 points
+Masked Hero has 460.33 HP remaining
+Masked Hero Attacked Thor with power 79.04
+Thor's Defence absorbed 29.25 points
+Thor has 701.9 HP remaining
+Thor Attacked Masked Hero with power 80.5
+Masked Hero's Defence absorbed 10.88 points
+Masked Hero has 390.71 HP remaining
+Masked Hero Attacked Thor with power 100.88
+Thor's Defence absorbed 63.75 points
+Thor has 664.77 HP remaining
+Thor Attacked Masked Hero with power 81.65
+Masked Hero's Defence absorbed 14.11 points
+Masked Hero has 323.17 HP remaining
+Masked Hero Attacked Thor with power 102.96
+Thor's Defence absorbed 39.75 points
+Thor has 601.56 HP remaining
+Thor Attacked Masked Hero with power 83.95
+Masked Hero Blocked the attack
+Masked Hero has 323.17 HP remaining
+Masked Hero Attacked Thor with power 72.8
+Thor's Defence absorbed 21 points
+Thor has 549.76 HP remaining
+Thor Attacked Masked Hero with power 95.45
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 227.72 HP remaining
+Masked Hero Attacked Thor with power 92.56
+Thor's Defence absorbed 51 points
+Thor has 508.2 HP remaining
+Thor Attacked Masked Hero with power 111.55
+Masked Hero Blocked the attack
+Masked Hero has 227.72 HP remaining
+Masked Hero Attacked Thor with power 81.12
+Thor's Defence absorbed 0 points
+Thor has 427.08 HP remaining
+Thor Attacked Masked Hero with power 87.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 140.32 HP remaining
+Masked Hero Attacked Thor with power 76.96
+Thor's Defence absorbed 57.75 points
+Thor has 407.87 HP remaining
+Thor Attacked Masked Hero with power 108.1
+Masked Hero's Defence absorbed 11.56 points
+Masked Hero has 43.78 HP remaining
+Masked Hero Attacked Thor with power 88.4
+Thor's Defence absorbed 47.25 points
+Thor has 366.72 HP remaining
+Thor Attacked Masked Hero with power 95.45
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 0 HP remaining
+Battle Over.Thor is the winner
+
+Thor attacks first
+Thor Attacked Masked Hero with power 110.4
+Masked Hero's Defence absorbed 12.24 points
+Masked Hero has 942.84 HP remaining
+Masked Hero Attacked Thor with power 91.52
+Thor's Defence absorbed 71.25 points
+Thor has 1179.73 HP remaining
+Thor Attacked Masked Hero with power 108.1
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 834.74 HP remaining
+Masked Hero Attacked Thor with power 75.92
+Thor's Defence absorbed 15 points
+Thor has 1118.81 HP remaining
+Thor Attacked Masked Hero with power 108.1
+Masked Hero's Defence absorbed 13.09 points
+Masked Hero has 739.73 HP remaining
+Masked Hero Attacked Thor with power 75.92
+Thor's Defence absorbed 51 points
+Thor has 1093.89 HP remaining
+Thor Attacked Masked Hero with power 113.85
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 625.88 HP remaining
+Masked Hero Attacked Thor with power 93.6
+Thor's Defence absorbed 69 points
+Thor has 1069.29 HP remaining
+Thor Attacked Masked Hero with power 94.3
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 531.58 HP remaining
+Masked Hero Attacked Thor with power 92.56
+Thor's Defence absorbed 70.5 points
+Thor has 1047.23 HP remaining
+Thor Attacked Masked Hero with power 104.65
+Masked Hero's Defence absorbed 13.6 points
+Masked Hero has 440.53 HP remaining
+Masked Hero Attacked Thor with power 90.48
+Thor's Defence absorbed 30.75 points
+Thor has 987.5 HP remaining
+Thor Attacked Masked Hero with power 96.6
+Masked Hero's Defence absorbed 14.62 points
+Masked Hero has 358.55 HP remaining
+Masked Hero Attacked Thor with power 85.28
+Thor's Defence absorbed 18 points
+Thor has 920.22 HP remaining
+Thor Attacked Masked Hero with power 82.8
+Masked Hero Blocked the attack
+Masked Hero has 358.55 HP remaining
+Masked Hero Attacked Thor with power 85.28
+Thor Blocked the attack
+Thor has 920.22 HP remaining
+Thor Attacked Masked Hero with power 83.95
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 274.6 HP remaining
+Masked Hero Attacked Thor with power 91.52
+Thor's Defence absorbed 68.25 points
+Thor has 896.95 HP remaining
+Thor Attacked Masked Hero with power 104.65
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 169.95 HP remaining
+Masked Hero Attacked Thor with power 90.48
+Thor's Defence absorbed 23.25 points
+Thor has 829.72 HP remaining
+Thor Attacked Masked Hero with power 81.65
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 88.3001 HP remaining
+Masked Hero Attacked Thor with power 80.08
+Thor's Defence absorbed 23.25 points
+Thor has 772.89 HP remaining
+Thor Attacked Masked Hero with power 101.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 0 HP remaining
+Battle Over.Thor is the winner
+
+Thor attacks first
+Thor Attacked Masked Hero with power 95.45
+Masked Hero Blocked the attack
+Masked Hero has 1041 HP remaining
+Masked Hero Attacked Thor with power 84.24
+Thor's Defence absorbed 66.75 points
+Thor has 1182.51 HP remaining
+Thor Attacked Masked Hero with power 96.6
+Masked Hero's Defence absorbed 10.03 points
+Masked Hero has 954.43 HP remaining
+Masked Hero Attacked Thor with power 84.24
+Thor's Defence absorbed 58.5 points
+Thor has 1156.77 HP remaining
+Thor Attacked Masked Hero with power 113.85
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 840.58 HP remaining
+Masked Hero Attacked Thor with power 88.4
+Thor's Defence absorbed 29.25 points
+Thor has 1097.62 HP remaining
+Thor Attacked Masked Hero with power 92
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 748.58 HP remaining
+Masked Hero Attacked Thor with power 79.04
+Thor's Defence absorbed 13.5 points
+Thor has 1032.08 HP remaining
+Thor Attacked Masked Hero with power 103.5
+Masked Hero Blocked the attack
+Masked Hero has 748.58 HP remaining
+Masked Hero Attacked Thor with power 82.16
+Thor's Defence absorbed 10.5 points
+Thor has 960.42 HP remaining
+Thor Attacked Masked Hero with power 98.9
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 649.68 HP remaining
+Masked Hero Attacked Thor with power 95.68
+Thor's Defence absorbed 21.75 points
+Thor has 886.49 HP remaining
+Thor Attacked Masked Hero with power 83.95
+Masked Hero Blocked the attack
+Masked Hero has 649.68 HP remaining
+Masked Hero Attacked Thor with power 87.36
+Thor's Defence absorbed 47.25 points
+Thor has 846.38 HP remaining
+Thor Attacked Masked Hero with power 81.65
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 568.03 HP remaining
+Masked Hero Attacked Thor with power 89.44
+Thor's Defence absorbed 67.5 points
+Thor has 824.44 HP remaining
+Thor Attacked Masked Hero with power 96.6
+Masked Hero Blocked the attack
+Masked Hero has 568.03 HP remaining
+Masked Hero Attacked Thor with power 78
+Thor Blocked the attack
+Thor has 824.44 HP remaining
+Thor Attacked Masked Hero with power 90.85
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 477.18 HP remaining
+Masked Hero Attacked Thor with power 72.8
+Thor's Defence absorbed 0 points
+Thor has 751.64 HP remaining
+Thor Attacked Masked Hero with power 81.65
+Masked Hero's Defence absorbed 14.45 points
+Masked Hero has 409.98 HP remaining
+Masked Hero Attacked Thor with power 85.28
+Thor's Defence absorbed 45.75 points
+Thor has 712.11 HP remaining
+Thor Attacked Masked Hero with power 110.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 299.58 HP remaining
+Masked Hero Attacked Thor with power 72.8
+Thor's Defence absorbed 42.75 points
+Thor has 682.06 HP remaining
+Thor Attacked Masked Hero with power 101.2
+Masked Hero's Defence absorbed 12.07 points
+Masked Hero has 210.45 HP remaining
+Masked Hero Attacked Thor with power 84.24
+Thor's Defence absorbed 12.75 points
+Thor has 610.57 HP remaining
+Thor Attacked Masked Hero with power 92
+Masked Hero Blocked the attack
+Masked Hero has 210.45 HP remaining
+Masked Hero Attacked Thor with power 86.32
+Thor's Defence absorbed 0 points
+Thor has 524.25 HP remaining
+Thor Attacked Masked Hero with power 85.1
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 125.35 HP remaining
+Masked Hero Attacked Thor with power 88.4
+Thor's Defence absorbed 60.75 points
+Thor has 496.6 HP remaining
+Thor Attacked Masked Hero with power 97.75
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 27.6 HP remaining
+Masked Hero Attacked Thor with power 91.52
+Thor's Defence absorbed 48.75 points
+Thor has 453.83 HP remaining
+Thor Attacked Masked Hero with power 92
+Masked Hero's Defence absorbed 10.54 points
+Masked Hero has 0 HP remaining
+Battle Over.Thor is the winner
+
+Thor attacks first
+Thor Attacked Masked Hero with power 85.1
+Masked Hero's Defence absorbed 12.07 points
+Masked Hero has 967.97 HP remaining
+Masked Hero Attacked Thor with power 93.6
+Thor's Defence absorbed 0 points
+Thor has 1106.4 HP remaining
+Thor Attacked Masked Hero with power 92
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 875.97 HP remaining
+Masked Hero Attacked Thor with power 73.84
+Thor's Defence absorbed 66 points
+Thor has 1098.56 HP remaining
+Thor Attacked Masked Hero with power 81.65
+Masked Hero's Defence absorbed 11.22 points
+Masked Hero has 805.54 HP remaining
+Masked Hero Attacked Thor with power 80.08
+Thor's Defence absorbed 26.25 points
+Thor has 1044.73 HP remaining
+Thor Attacked Masked Hero with power 101.2
+Masked Hero's Defence absorbed 11.39 points
+Masked Hero has 715.73 HP remaining
+Masked Hero Attacked Thor with power 92.56
+Thor's Defence absorbed 57.75 points
+Thor has 1009.92 HP remaining
+Thor Attacked Masked Hero with power 105.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 609.93 HP remaining
+Masked Hero Attacked Thor with power 80.08
+Thor's Defence absorbed 35.25 points
+Thor has 965.09 HP remaining
+Thor Attacked Masked Hero with power 104.65
+Masked Hero Blocked the attack
+Masked Hero has 609.93 HP remaining
+Masked Hero Attacked Thor with power 73.84
+Thor's Defence absorbed 48.75 points
+Thor has 940 HP remaining
+Thor Attacked Masked Hero with power 90.85
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 519.08 HP remaining
+Masked Hero Attacked Thor with power 100.88
+Thor's Defence absorbed 21 points
+Thor has 860.12 HP remaining
+Thor Attacked Masked Hero with power 104.65
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 414.43 HP remaining
+Masked Hero Attacked Thor with power 93.6
+Thor's Defence absorbed 0 points
+Thor has 766.52 HP remaining
+Thor Attacked Masked Hero with power 90.85
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 323.58 HP remaining
+Masked Hero Attacked Thor with power 80.08
+Thor's Defence absorbed 27.75 points
+Thor has 714.19 HP remaining
+Thor Attacked Masked Hero with power 108.1
+Masked Hero's Defence absorbed 14.28 points
+Masked Hero has 229.76 HP remaining
+Masked Hero Attacked Thor with power 93.6
+Thor's Defence absorbed 31.5 points
+Thor has 652.09 HP remaining
+Thor Attacked Masked Hero with power 93.15
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 136.61 HP remaining
+Masked Hero Attacked Thor with power 96.72
+Thor's Defence absorbed 0 points
+Thor has 555.37 HP remaining
+Thor Attacked Masked Hero with power 98.9
+Masked Hero's Defence absorbed 11.73 points
+Masked Hero has 49.44 HP remaining
+Masked Hero Attacked Thor with power 91.52
+Thor's Defence absorbed 72.75 points
+Thor has 536.6 HP remaining
+Thor Attacked Masked Hero with power 112.7
+Masked Hero's Defence absorbed 13.6 points
+Masked Hero has 0 HP remaining
+Battle Over.Thor is the winner
+
+Masked Hero attacks first
+Masked Hero Attacked Thor with power 86.32
+Thor's Defence absorbed 0 points
+Thor has 1113.68 HP remaining
+Thor Attacked Masked Hero with power 93.15
+Masked Hero's Defence absorbed 14.11 points
+Masked Hero has 961.96 HP remaining
+Masked Hero Attacked Thor with power 99.84
+Thor's Defence absorbed 23.25 points
+Thor has 1037.09 HP remaining
+Thor Attacked Masked Hero with power 110.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 851.56 HP remaining
+Masked Hero Attacked Thor with power 78
+Thor's Defence absorbed 54.75 points
+Thor has 1013.84 HP remaining
+Thor Attacked Masked Hero with power 87.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 764.16 HP remaining
+Masked Hero Attacked Thor with power 86.32
+Thor's Defence absorbed 51.75 points
+Thor has 979.27 HP remaining
+Thor Attacked Masked Hero with power 113.85
+Masked Hero Blocked the attack
+Masked Hero has 764.16 HP remaining
+Masked Hero Attacked Thor with power 97.76
+Thor's Defence absorbed 54.75 points
+Thor has 936.26 HP remaining
+Thor Attacked Masked Hero with power 80.5
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 683.66 HP remaining
+Masked Hero Attacked Thor with power 88.4
+Thor's Defence absorbed 59.25 points
+Thor has 907.11 HP remaining
+Thor Attacked Masked Hero with power 94.3
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 589.36 HP remaining
+Masked Hero Attacked Thor with power 82.16
+Thor's Defence absorbed 46.5 points
+Thor has 871.45 HP remaining
+Thor Attacked Masked Hero with power 80.5
+Masked Hero's Defence absorbed 12.41 points
+Masked Hero has 521.27 HP remaining
+Masked Hero Attacked Thor with power 79.04
+Thor's Defence absorbed 57.75 points
+Thor has 850.16 HP remaining
+Thor Attacked Masked Hero with power 88.55
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 432.72 HP remaining
+Masked Hero Attacked Thor with power 84.24
+Thor's Defence absorbed 12.75 points
+Thor has 778.67 HP remaining
+Thor Attacked Masked Hero with power 113.85
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 318.87 HP remaining
+Masked Hero Attacked Thor with power 92.56
+Thor's Defence absorbed 38.25 points
+Thor has 724.36 HP remaining
+Thor Attacked Masked Hero with power 87.4
+Masked Hero Blocked the attack
+Masked Hero has 318.87 HP remaining
+Masked Hero Attacked Thor with power 101.92
+Thor's Defence absorbed 24 points
+Thor has 646.44 HP remaining
+Thor Attacked Masked Hero with power 100.05
+Masked Hero's Defence absorbed 13.26 points
+Masked Hero has 232.08 HP remaining
+Masked Hero Attacked Thor with power 87.36
+Thor's Defence absorbed 52.5 points
+Thor has 611.58 HP remaining
+Thor Attacked Masked Hero with power 110.4
+Masked Hero Blocked the attack
+Masked Hero has 232.08 HP remaining
+Masked Hero Attacked Thor with power 74.88
+Thor's Defence absorbed 13.5 points
+Thor has 550.2 HP remaining
+Thor Attacked Masked Hero with power 113.85
+Masked Hero's Defence absorbed 12.24 points
+Masked Hero has 130.47 HP remaining
+Masked Hero Attacked Thor with power 100.88
+Thor's Defence absorbed 45 points
+Thor has 494.32 HP remaining
+Thor Attacked Masked Hero with power 108.1
+Masked Hero's Defence absorbed 10.03 points
+Masked Hero has 32.4 HP remaining
+Masked Hero Attacked Thor with power 84.24
+Thor's Defence absorbed 24 points
+Thor has 434.08 HP remaining
+Thor Attacked Masked Hero with power 80.5
+Masked Hero Blocked the attack
+Masked Hero has 32.4 HP remaining
+Masked Hero Attacked Thor with power 99.84
+Thor's Defence absorbed 39.75 points
+Thor has 373.99 HP remaining
+Thor Attacked Masked Hero with power 86.25
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 0 HP remaining
+Battle Over.Thor is the winner
+
+Thor attacks first
+Thor Attacked Masked Hero with power 80.5
+Masked Hero's Defence absorbed 13.09 points
+Masked Hero has 973.59 HP remaining
+Masked Hero Attacked Thor with power 78
+Thor's Defence absorbed 57 points
+Thor has 1179 HP remaining
+Thor Attacked Masked Hero with power 98.9
+Masked Hero's Defence absorbed 12.92 points
+Masked Hero has 887.61 HP remaining
+Masked Hero Attacked Thor with power 76.96
+Thor's Defence absorbed 30.75 points
+Thor has 1132.79 HP remaining
+Thor Attacked Masked Hero with power 102.35
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 785.26 HP remaining
+Masked Hero Attacked Thor with power 91.52
+Thor's Defence absorbed 0 points
+Thor has 1041.27 HP remaining
+Thor Attacked Masked Hero with power 98.9
+Masked Hero Blocked the attack
+Masked Hero has 785.26 HP remaining
+Masked Hero Attacked Thor with power 88.4
+Thor's Defence absorbed 48.75 points
+Thor has 1001.62 HP remaining
+Thor Attacked Masked Hero with power 108.1
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 677.16 HP remaining
+Masked Hero Attacked Thor with power 101.92
+Thor's Defence absorbed 54 points
+Thor has 953.7 HP remaining
+Thor Attacked Masked Hero with power 92
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 585.16 HP remaining
+Masked Hero Attacked Thor with power 99.84
+Thor's Defence absorbed 52.5 points
+Thor has 906.36 HP remaining
+Thor Attacked Masked Hero with power 111.55
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 473.61 HP remaining
+Masked Hero Attacked Thor with power 82.16
+Thor's Defence absorbed 0 points
+Thor has 824.2 HP remaining
+Thor Attacked Masked Hero with power 95.45
+Masked Hero Blocked the attack
+Masked Hero has 473.61 HP remaining
+Masked Hero Attacked Thor with power 85.28
+Thor's Defence absorbed 62.25 points
+Thor has 801.17 HP remaining
+Thor Attacked Masked Hero with power 105.8
+Masked Hero Blocked the attack
+Masked Hero has 473.61 HP remaining
+Masked Hero Attacked Thor with power 88.4
+Thor's Defence absorbed 0 points
+Thor has 712.77 HP remaining
+Thor Attacked Masked Hero with power 96.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 377.01 HP remaining
+Masked Hero Attacked Thor with power 92.56
+Thor's Defence absorbed 27 points
+Thor has 647.21 HP remaining
+Thor Attacked Masked Hero with power 103.5
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 273.51 HP remaining
+Masked Hero Attacked Thor with power 72.8
+Thor's Defence absorbed 48 points
+Thor has 622.41 HP remaining
+Thor Attacked Masked Hero with power 105.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 167.71 HP remaining
+Masked Hero Attacked Thor with power 85.28
+Thor's Defence absorbed 10.5 points
+Thor has 547.63 HP remaining
+Thor Attacked Masked Hero with power 98.9
+Masked Hero Blocked the attack
+Masked Hero has 167.71 HP remaining
+Masked Hero Attacked Thor with power 102.96
+Thor's Defence absorbed 21 points
+Thor has 465.67 HP remaining
+Thor Attacked Masked Hero with power 108.1
+Masked Hero's Defence absorbed 13.6 points
+Masked Hero has 73.21 HP remaining
+Masked Hero Attacked Thor with power 97.76
+Thor's Defence absorbed 37.5 points
+Thor has 405.41 HP remaining
+Thor Attacked Masked Hero with power 103.5
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 0 HP remaining
+Battle Over.Thor is the winner
+
+Masked Hero attacks first
+Masked Hero Attacked Thor with power 78
+Thor's Defence absorbed 27 points
+Thor has 1149 HP remaining
+Thor Attacked Masked Hero with power 79.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 961.8 HP remaining
+Masked Hero Attacked Thor with power 100.88
+Thor's Defence absorbed 0 points
+Thor has 1048.12 HP remaining
+Thor Attacked Masked Hero with power 72.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 889 HP remaining
+Masked Hero Attacked Thor with power 92.56
+Thor's Defence absorbed 19.5 points
+Thor has 975.06 HP remaining
+Thor Attacked Masked Hero with power 74.4
+Masked Hero's Defence absorbed 12.75 points
+Masked Hero has 827.35 HP remaining
+Masked Hero Attacked Thor with power 80.08
+Thor Blocked the attack
+Thor has 975.06 HP remaining
+Thor Attacked Masked Hero with power 58.4
+Masked Hero's Defence absorbed 12.07 points
+Masked Hero has 781.02 HP remaining
+Masked Hero Attacked Thor with power 91.52
+Thor's Defence absorbed 71.25 points
+Thor has 954.79 HP remaining
+Thor Attacked Masked Hero with power 77.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 703.42 HP remaining
+Masked Hero Attacked Thor with power 94.64
+Thor's Defence absorbed 23.25 points
+Thor has 883.4 HP remaining
+Thor Attacked Masked Hero with power 70.4
+Masked Hero's Defence absorbed 11.22 points
+Masked Hero has 644.24 HP remaining
+Masked Hero Attacked Thor with power 73.84
+Thor's Defence absorbed 0 points
+Thor has 809.56 HP remaining
+Thor Attacked Masked Hero with power 74.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 569.84 HP remaining
+Masked Hero Attacked Thor with power 101.92
+Thor's Defence absorbed 0 points
+Thor has 707.64 HP remaining
+Thor Attacked Masked Hero with power 71.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 498.64 HP remaining
+Masked Hero Attacked Thor with power 73.84
+Thor's Defence absorbed 0 points
+Thor has 633.8 HP remaining
+Thor Attacked Masked Hero with power 79.2
+Masked Hero Blocked the attack
+Masked Hero has 498.64 HP remaining
+Masked Hero Attacked Thor with power 91.52
+Thor's Defence absorbed 39.75 points
+Thor has 582.03 HP remaining
+Thor Attacked Masked Hero with power 60.8
+Masked Hero's Defence absorbed 14.96 points
+Masked Hero has 452.8 HP remaining
+Masked Hero Attacked Thor with power 79.04
+Thor's Defence absorbed 36.75 points
+Thor has 539.74 HP remaining
+Thor Attacked Masked Hero with power 71.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 381.6 HP remaining
+Masked Hero Attacked Thor with power 95.68
+Thor's Defence absorbed 41.25 points
+Thor has 485.31 HP remaining
+Thor Attacked Masked Hero with power 66.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 315.2 HP remaining
+Masked Hero Attacked Thor with power 86.32
+Thor's Defence absorbed 0 points
+Thor has 398.99 HP remaining
+Thor Attacked Masked Hero with power 79.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 236 HP remaining
+Masked Hero Attacked Thor with power 79.04
+Thor's Defence absorbed 0 points
+Thor has 319.95 HP remaining
+Thor Attacked Masked Hero with power 61.6
+Masked Hero's Defence absorbed 12.07 points
+Masked Hero has 186.47 HP remaining
+Masked Hero Attacked Thor with power 94.64
+Thor's Defence absorbed 25.5 points
+Thor has 250.81 HP remaining
+Thor Attacked Masked Hero with power 59.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 127.27 HP remaining
+Masked Hero Attacked Thor with power 82.16
+Thor's Defence absorbed 20.25 points
+Thor has 188.9 HP remaining
+Thor Attacked Masked Hero with power 56
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 71.2699 HP remaining
+Masked Hero Attacked Thor with power 83.2
+Thor's Defence absorbed 59.25 points
+Thor has 164.95 HP remaining
+Thor Attacked Masked Hero with power 59.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 12.0699 HP remaining
+Masked Hero Attacked Thor with power 102.96
+Thor's Defence absorbed 38.25 points
+Thor has 100.24 HP remaining
+Thor Attacked Masked Hero with power 66.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 0 HP remaining
+Battle Over.Thor is the winner
+
+Masked Hero attacks first
+Masked Hero Attacked Thor with power 95.68
+Thor's Defence absorbed 41.25 points
+Thor has 1145.57 HP remaining
+Thor Attacked Masked Hero with power 74.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 966.6 HP remaining
+Masked Hero Attacked Thor with power 90.48
+Thor's Defence absorbed 0 points
+Thor has 1055.09 HP remaining
+Thor Attacked Masked Hero with power 62.4
+Masked Hero's Defence absorbed 14.11 points
+Masked Hero has 918.31 HP remaining
+Masked Hero Attacked Thor with power 98.8
+Thor's Defence absorbed 65.25 points
+Thor has 1021.54 HP remaining
+Thor Attacked Masked Hero with power 60
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 858.31 HP remaining
+Masked Hero Attacked Thor with power 91.52
+Thor's Defence absorbed 21 points
+Thor has 951.02 HP remaining
+Thor Attacked Masked Hero with power 72
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 786.31 HP remaining
+Masked Hero Attacked Thor with power 90.48
+Thor's Defence absorbed 24 points
+Thor has 884.54 HP remaining
+Thor Attacked Masked Hero with power 76.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 709.51 HP remaining
+Masked Hero Attacked Thor with power 88.4
+Thor's Defence absorbed 32.25 points
+Thor has 828.39 HP remaining
+Thor Attacked Masked Hero with power 75.2
+Masked Hero Blocked the attack
+Masked Hero has 709.51 HP remaining
+Masked Hero Attacked Thor with power 93.6
+Thor's Defence absorbed 0 points
+Thor has 734.79 HP remaining
+Thor Attacked Masked Hero with power 75.2
+Masked Hero Blocked the attack
+Masked Hero has 709.51 HP remaining
+Masked Hero Attacked Thor with power 79.04
+Thor's Defence absorbed 18.75 points
+Thor has 674.5 HP remaining
+Thor Attacked Masked Hero with power 74.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 635.11 HP remaining
+Masked Hero Attacked Thor with power 85.28
+Thor's Defence absorbed 16.5 points
+Thor has 605.72 HP remaining
+Thor Attacked Masked Hero with power 68
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 567.11 HP remaining
+Masked Hero Attacked Thor with power 86.32
+Thor's Defence absorbed 0 points
+Thor has 519.4 HP remaining
+Thor Attacked Masked Hero with power 71.2
+Masked Hero's Defence absorbed 11.56 points
+Masked Hero has 507.47 HP remaining
+Masked Hero Attacked Thor with power 102.96
+Thor's Defence absorbed 0 points
+Thor has 416.44 HP remaining
+Thor Attacked Masked Hero with power 56.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 450.67 HP remaining
+Masked Hero Attacked Thor with power 81.12
+Thor's Defence absorbed 42 points
+Thor has 377.32 HP remaining
+Thor Attacked Masked Hero with power 79.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 371.47 HP remaining
+Masked Hero Attacked Thor with power 101.92
+Thor's Defence absorbed 63.75 points
+Thor has 339.15 HP remaining
+Thor Attacked Masked Hero with power 61.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 309.87 HP remaining
+Masked Hero Attacked Thor with power 74.88
+Thor's Defence absorbed 18 points
+Thor has 282.27 HP remaining
+Thor Attacked Masked Hero with power 61.6
+Masked Hero's Defence absorbed 10.54 points
+Masked Hero has 258.81 HP remaining
+Masked Hero Attacked Thor with power 81.12
+Thor's Defence absorbed 69.75 points
+Thor has 270.9 HP remaining
+Thor Attacked Masked Hero with power 56.8
+Masked Hero's Defence absorbed 11.39 points
+Masked Hero has 213.4 HP remaining
+Masked Hero Attacked Thor with power 86.32
+Thor's Defence absorbed 40.5 points
+Thor has 225.08 HP remaining
+Thor Attacked Masked Hero with power 79.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 134.2 HP remaining
+Masked Hero Attacked Thor with power 72.8
+Thor's Defence absorbed 22.5 points
+Thor has 174.78 HP remaining
+Thor Attacked Masked Hero with power 56.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 77.4 HP remaining
+Masked Hero Attacked Thor with power 98.8
+Thor's Defence absorbed 42.75 points
+Thor has 118.73 HP remaining
+Thor Attacked Masked Hero with power 64
+Masked Hero's Defence absorbed 13.94 points
+Masked Hero has 27.34 HP remaining
+Masked Hero Attacked Thor with power 91.52
+Thor's Defence absorbed 33.75 points
+Thor has 60.96 HP remaining
+Thor Attacked Masked Hero with power 65.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 0 HP remaining
+Battle Over.Thor is the winner
+
+Thor attacks first
+Thor Attacked Masked Hero with power 56.8
+Masked Hero's Defence absorbed 14.62 points
+Masked Hero has 998.82 HP remaining
+Masked Hero Attacked Thor with power 86.32
+Thor's Defence absorbed 19.5 points
+Thor has 1133.18 HP remaining
+Thor Attacked Masked Hero with power 57.6
+Masked Hero's Defence absorbed 12.92 points
+Masked Hero has 954.14 HP remaining
+Masked Hero Attacked Thor with power 75.92
+Thor's Defence absorbed 27 points
+Thor has 1084.26 HP remaining
+Thor Attacked Masked Hero with power 60.8
+Masked Hero Blocked the attack
+Masked Hero has 954.14 HP remaining
+Masked Hero Attacked Thor with power 75.92
+Thor Blocked the attack
+Thor has 1084.26 HP remaining
+Thor Attacked Masked Hero with power 65.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 888.54 HP remaining
+Masked Hero Attacked Thor with power 72.8
+Thor's Defence absorbed 44.25 points
+Thor has 1055.71 HP remaining
+Thor Attacked Masked Hero with power 72
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 816.54 HP remaining
+Masked Hero Attacked Thor with power 100.88
+Thor's Defence absorbed 52.5 points
+Thor has 1007.33 HP remaining
+Thor Attacked Masked Hero with power 63.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 753.34 HP remaining
+Masked Hero Attacked Thor with power 86.32
+Thor's Defence absorbed 53.25 points
+Thor has 974.26 HP remaining
+Thor Attacked Masked Hero with power 71.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 682.14 HP remaining
+Masked Hero Attacked Thor with power 101.92
+Thor's Defence absorbed 24.75 points
+Thor has 897.09 HP remaining
+Thor Attacked Masked Hero with power 72
+Masked Hero's Defence absorbed 11.56 points
+Masked Hero has 621.7 HP remaining
+Masked Hero Attacked Thor with power 84.24
+Thor's Defence absorbed 0 points
+Thor has 812.85 HP remaining
+Thor Attacked Masked Hero with power 67.2
+Masked Hero's Defence absorbed 14.96 points
+Masked Hero has 569.46 HP remaining
+Masked Hero Attacked Thor with power 80.08
+Thor's Defence absorbed 18 points
+Thor has 750.77 HP remaining
+Thor Attacked Masked Hero with power 62.4
+Masked Hero's Defence absorbed 13.43 points
+Masked Hero has 520.49 HP remaining
+Masked Hero Attacked Thor with power 86.32
+Thor's Defence absorbed 18.75 points
+Thor has 683.2 HP remaining
+Thor Attacked Masked Hero with power 68.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 451.69 HP remaining
+Masked Hero Attacked Thor with power 90.48
+Thor's Defence absorbed 53.25 points
+Thor has 645.97 HP remaining
+Thor Attacked Masked Hero with power 60.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 390.89 HP remaining
+Masked Hero Attacked Thor with power 80.08
+Thor's Defence absorbed 35.25 points
+Thor has 601.14 HP remaining
+Thor Attacked Masked Hero with power 64
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 326.89 HP remaining
+Masked Hero Attacked Thor with power 101.92
+Thor's Defence absorbed 20.25 points
+Thor has 519.47 HP remaining
+Thor Attacked Masked Hero with power 79.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 247.69 HP remaining
+Masked Hero Attacked Thor with power 92.56
+Thor's Defence absorbed 49.5 points
+Thor has 476.41 HP remaining
+Thor Attacked Masked Hero with power 64
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 183.69 HP remaining
+Masked Hero Attacked Thor with power 99.84
+Thor's Defence absorbed 47.25 points
+Thor has 423.82 HP remaining
+Thor Attacked Masked Hero with power 71.2
+Masked Hero's Defence absorbed 12.24 points
+Masked Hero has 124.73 HP remaining
+Masked Hero Attacked Thor with power 81.12
+Thor's Defence absorbed 58.5 points
+Thor has 401.2 HP remaining
+Thor Attacked Masked Hero with power 62.4
+Masked Hero's Defence absorbed 14.28 points
+Masked Hero has 76.6101 HP remaining
+Masked Hero Attacked Thor with power 84.24
+Thor's Defence absorbed 15 points
+Thor has 331.96 HP remaining
+Thor Attacked Masked Hero with power 61.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 15.0101 HP remaining
+Masked Hero Attacked Thor with power 86.32
+Thor's Defence absorbed 55.5 points
+Thor has 301.14 HP remaining
+Thor Attacked Masked Hero with power 78.4
+Masked Hero's Defence absorbed 14.79 points
+Masked Hero has 0 HP remaining
+Battle Over.Thor is the winner
+
+Masked Hero attacks first
+Masked Hero Attacked Thor with power 91.52
+Thor's Defence absorbed 45.75 points
+Thor has 1154.23 HP remaining
+Thor Attacked Masked Hero with power 61.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 979.4 HP remaining
+Masked Hero Attacked Thor with power 96.72
+Thor's Defence absorbed 15.75 points
+Thor has 1073.26 HP remaining
+Thor Attacked Masked Hero with power 64.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 914.6 HP remaining
+Masked Hero Attacked Thor with power 85.28
+Thor's Defence absorbed 41.25 points
+Thor has 1029.23 HP remaining
+Thor Attacked Masked Hero with power 68
+Masked Hero's Defence absorbed 12.07 points
+Masked Hero has 858.67 HP remaining
+Masked Hero Attacked Thor with power 88.4
+Thor's Defence absorbed 45 points
+Thor has 985.83 HP remaining
+Thor Attacked Masked Hero with power 68.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 789.87 HP remaining
+Masked Hero Attacked Thor with power 93.6
+Thor's Defence absorbed 38.25 points
+Thor has 930.48 HP remaining
+Thor Attacked Masked Hero with power 76
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 713.87 HP remaining
+Masked Hero Attacked Thor with power 76.96
+Thor's Defence absorbed 65.25 points
+Thor has 918.77 HP remaining
+Thor Attacked Masked Hero with power 71.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 642.67 HP remaining
+Masked Hero Attacked Thor with power 80.08
+Thor's Defence absorbed 19.5 points
+Thor has 858.19 HP remaining
+Thor Attacked Masked Hero with power 61.6
+Masked Hero's Defence absorbed 12.24 points
+Masked Hero has 593.31 HP remaining
+Masked Hero Attacked Thor with power 92.56
+Thor's Defence absorbed 28.5 points
+Thor has 794.13 HP remaining
+Thor Attacked Masked Hero with power 68
+Masked Hero Blocked the attack
+Masked Hero has 593.31 HP remaining
+Masked Hero Attacked Thor with power 99.84
+Thor's Defence absorbed 48 points
+Thor has 742.29 HP remaining
+Thor Attacked Masked Hero with power 74.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 518.91 HP remaining
+Masked Hero Attacked Thor with power 75.92
+Thor's Defence absorbed 60 points
+Thor has 726.37 HP remaining
+Thor Attacked Masked Hero with power 76.8
+Masked Hero's Defence absorbed 10.54 points
+Masked Hero has 452.65 HP remaining
+Masked Hero Attacked Thor with power 81.12
+Thor's Defence absorbed 44.25 points
+Thor has 689.5 HP remaining
+Thor Attacked Masked Hero with power 56
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 396.65 HP remaining
+Masked Hero Attacked Thor with power 86.32
+Thor's Defence absorbed 11.25 points
+Thor has 614.43 HP remaining
+Thor Attacked Masked Hero with power 74.4
+Masked Hero's Defence absorbed 11.73 points
+Masked Hero has 333.98 HP remaining
+Masked Hero Attacked Thor with power 97.76
+Thor's Defence absorbed 43.5 points
+Thor has 560.17 HP remaining
+Thor Attacked Masked Hero with power 78.4
+Masked Hero's Defence absorbed 14.45 points
+Masked Hero has 270.03 HP remaining
+Masked Hero Attacked Thor with power 99.84
+Thor's Defence absorbed 63.75 points
+Thor has 524.08 HP remaining
+Thor Attacked Masked Hero with power 71.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 198.83 HP remaining
+Masked Hero Attacked Thor with power 100.88
+Thor's Defence absorbed 45 points
+Thor has 468.2 HP remaining
+Thor Attacked Masked Hero with power 74.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 124.43 HP remaining
+Masked Hero Attacked Thor with power 96.72
+Thor's Defence absorbed 31.5 points
+Thor has 402.98 HP remaining
+Thor Attacked Masked Hero with power 62.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 62.03 HP remaining
+Masked Hero Attacked Thor with power 102.96
+Thor's Defence absorbed 68.25 points
+Thor has 368.27 HP remaining
+Thor Attacked Masked Hero with power 68
+Masked Hero's Defence absorbed 11.73 points
+Masked Hero has 5.76 HP remaining
+Masked Hero Attacked Thor with power 97.76
+Thor's Defence absorbed 39.75 points
+Thor has 310.26 HP remaining
+Thor Attacked Masked Hero with power 64
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 0 HP remaining
+Battle Over.Thor is the winner
+
+Thor attacks first
+Thor Attacked Masked Hero with power 77.6
+Masked Hero Blocked the attack
+Masked Hero has 1041 HP remaining
+Masked Hero Attacked Thor with power 79.04
+Thor's Defence absorbed 33.75 points
+Thor has 1154.71 HP remaining
+Thor Attacked Masked Hero with power 68.8
+Masked Hero's Defence absorbed 14.45 points
+Masked Hero has 986.65 HP remaining
+Masked Hero Attacked Thor with power 80.08
+Thor's Defence absorbed 67.5 points
+Thor has 1142.13 HP remaining
+Thor Attacked Masked Hero with power 68.8
+Masked Hero's Defence absorbed 10.54 points
+Masked Hero has 928.39 HP remaining
+Masked Hero Attacked Thor with power 86.32
+Thor's Defence absorbed 49.5 points
+Thor has 1105.31 HP remaining
+Thor Attacked Masked Hero with power 64
+Masked Hero's Defence absorbed 10.37 points
+Masked Hero has 874.76 HP remaining
+Masked Hero Attacked Thor with power 76.96
+Thor's Defence absorbed 35.25 points
+Thor has 1063.6 HP remaining
+Thor Attacked Masked Hero with power 73.6
+Masked Hero's Defence absorbed 13.09 points
+Masked Hero has 814.25 HP remaining
+Masked Hero Attacked Thor with power 91.52
+Thor's Defence absorbed 71.25 points
+Thor has 1043.33 HP remaining
+Thor Attacked Masked Hero with power 78.4
+Masked Hero's Defence absorbed 12.75 points
+Masked Hero has 748.6 HP remaining
+Masked Hero Attacked Thor with power 81.12
+Thor's Defence absorbed 56.25 points
+Thor has 1018.46 HP remaining
+Thor Attacked Masked Hero with power 61.6
+Masked Hero's Defence absorbed 13.26 points
+Masked Hero has 700.26 HP remaining
+Masked Hero Attacked Thor with power 83.2
+Thor's Defence absorbed 12 points
+Thor has 947.26 HP remaining
+Thor Attacked Masked Hero with power 64.8
+Masked Hero's Defence absorbed 13.77 points
+Masked Hero has 649.23 HP remaining
+Masked Hero Attacked Thor with power 83.2
+Thor's Defence absorbed 60.75 points
+Thor has 924.81 HP remaining
+Thor Attacked Masked Hero with power 78.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 570.83 HP remaining
+Masked Hero Attacked Thor with power 88.4
+Thor's Defence absorbed 0 points
+Thor has 836.41 HP remaining
+Thor Attacked Masked Hero with power 78.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 492.43 HP remaining
+Masked Hero Attacked Thor with power 93.6
+Thor's Defence absorbed 14.25 points
+Thor has 757.06 HP remaining
+Thor Attacked Masked Hero with power 76
+Masked Hero Blocked the attack
+Masked Hero has 492.43 HP remaining
+Masked Hero Attacked Thor with power 88.4
+Thor's Defence absorbed 54.75 points
+Thor has 723.41 HP remaining
+Thor Attacked Masked Hero with power 64.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 427.63 HP remaining
+Masked Hero Attacked Thor with power 81.12
+Thor's Defence absorbed 15.75 points
+Thor has 658.04 HP remaining
+Thor Attacked Masked Hero with power 78.4
+Masked Hero Blocked the attack
+Masked Hero has 427.63 HP remaining
+Masked Hero Attacked Thor with power 91.52
+Thor's Defence absorbed 0 points
+Thor has 566.52 HP remaining
+Thor Attacked Masked Hero with power 56.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 370.83 HP remaining
+Masked Hero Attacked Thor with power 82.16
+Thor's Defence absorbed 13.5 points
+Thor has 497.86 HP remaining
+Thor Attacked Masked Hero with power 78.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 292.43 HP remaining
+Masked Hero Attacked Thor with power 91.52
+Thor's Defence absorbed 30.75 points
+Thor has 437.09 HP remaining
+Thor Attacked Masked Hero with power 72.8
+Masked Hero's Defence absorbed 10.03 points
+Masked Hero has 229.66 HP remaining
+Masked Hero Attacked Thor with power 90.48
+Thor's Defence absorbed 34.5 points
+Thor has 381.11 HP remaining
+Thor Attacked Masked Hero with power 68
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 161.66 HP remaining
+Masked Hero Attacked Thor with power 98.8
+Thor's Defence absorbed 65.25 points
+Thor has 347.56 HP remaining
+Thor Attacked Masked Hero with power 60.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 100.86 HP remaining
+Masked Hero Attacked Thor with power 78
+Thor's Defence absorbed 50.25 points
+Thor has 319.81 HP remaining
+Thor Attacked Masked Hero with power 57.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 43.2599 HP remaining
+Masked Hero Attacked Thor with power 88.4
+Thor's Defence absorbed 64.5 points
+Thor has 295.91 HP remaining
+Thor Attacked Masked Hero with power 72.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 0 HP remaining
+Battle Over.Thor is the winner
+
+Masked Hero attacks first
+Masked Hero Attacked Thor with power 100.88
+Thor's Defence absorbed 43.5 points
+Thor has 1142.62 HP remaining
+Thor Attacked Masked Hero with power 65.6
+Masked Hero Blocked the attack
+Masked Hero has 1241 HP remaining
+Masked Hero Attacked Thor with power 90.48
+Thor's Defence absorbed 22.5 points
+Thor has 1074.64 HP remaining
+Thor Attacked Masked Hero with power 61.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 1179.4 HP remaining
+Masked Hero Attacked Thor with power 100.88
+Thor's Defence absorbed 24.75 points
+Thor has 998.51 HP remaining
+Thor Attacked Masked Hero with power 75.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 1104.2 HP remaining
+Masked Hero Attacked Thor with power 89.44
+Thor Blocked the attack
+Thor has 998.51 HP remaining
+Thor Attacked Masked Hero with power 78.4
+Masked Hero Blocked the attack
+Masked Hero has 1104.2 HP remaining
+Masked Hero Attacked Thor with power 81.12
+Thor's Defence absorbed 63.75 points
+Thor has 981.14 HP remaining
+Thor Attacked Masked Hero with power 56
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 1048.2 HP remaining
+Masked Hero Attacked Thor with power 100.88
+Thor's Defence absorbed 0 points
+Thor has 880.26 HP remaining
+Thor Attacked Masked Hero with power 70.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 977.8 HP remaining
+Masked Hero Attacked Thor with power 100.88
+Thor's Defence absorbed 47.25 points
+Thor has 826.63 HP remaining
+Thor Attacked Masked Hero with power 67.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 910.6 HP remaining
+Masked Hero Attacked Thor with power 79.04
+Thor's Defence absorbed 12.75 points
+Thor has 760.34 HP remaining
+Thor Attacked Masked Hero with power 56.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 853.8 HP remaining
+Masked Hero Attacked Thor with power 72.8
+Thor's Defence absorbed 30.75 points
+Thor has 718.29 HP remaining
+Thor Attacked Masked Hero with power 75.2
+Masked Hero's Defence absorbed 11.05 points
+Masked Hero has 789.65 HP remaining
+Masked Hero Attacked Thor with power 91.52
+Thor's Defence absorbed 67.5 points
+Thor has 694.27 HP remaining
+Thor Attacked Masked Hero with power 58.4
+Masked Hero Blocked the attack
+Masked Hero has 789.65 HP remaining
+Masked Hero Attacked Thor with power 92.56
+Thor's Defence absorbed 69.75 points
+Thor has 671.46 HP remaining
+Thor Attacked Masked Hero with power 63.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 726.45 HP remaining
+Masked Hero Attacked Thor with power 91.52
+Thor's Defence absorbed 30 points
+Thor has 609.94 HP remaining
+Thor Attacked Masked Hero with power 56
+Masked Hero Blocked the attack
+Masked Hero has 726.45 HP remaining
+Masked Hero Attacked Thor with power 78
+Thor's Defence absorbed 25.5 points
+Thor has 557.44 HP remaining
+Thor Attacked Masked Hero with power 69.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 656.85 HP remaining
+Masked Hero Attacked Thor with power 79.04
+Thor's Defence absorbed 31.5 points
+Thor has 509.9 HP remaining
+Thor Attacked Masked Hero with power 79.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 577.65 HP remaining
+Masked Hero Attacked Thor with power 98.8
+Thor's Defence absorbed 63.75 points
+Thor has 474.85 HP remaining
+Thor Attacked Masked Hero with power 63.2
+Masked Hero's Defence absorbed 10.88 points
+Masked Hero has 525.33 HP remaining
+Masked Hero Attacked Thor with power 94.64
+Thor's Defence absorbed 50.25 points
+Thor has 430.46 HP remaining
+Thor Attacked Masked Hero with power 73.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 451.73 HP remaining
+Masked Hero Attacked Thor with power 74.88
+Thor's Defence absorbed 21.75 points
+Thor has 377.33 HP remaining
+Thor Attacked Masked Hero with power 75.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 376.53 HP remaining
+Masked Hero Attacked Thor with power 86.32
+Thor's Defence absorbed 21 points
+Thor has 312.01 HP remaining
+Thor Attacked Masked Hero with power 64.8
+Masked Hero's Defence absorbed 14.11 points
+Masked Hero has 325.84 HP remaining
+Masked Hero Attacked Thor with power 76.96
+Thor's Defence absorbed 72 points
+Thor has 307.05 HP remaining
+Thor Attacked Masked Hero with power 76
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 249.84 HP remaining
+Masked Hero Attacked Thor with power 93.6
+Thor's Defence absorbed 58.5 points
+Thor has 271.95 HP remaining
+Thor Attacked Masked Hero with power 79.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 170.64 HP remaining
+Masked Hero Attacked Thor with power 99.84
+Thor's Defence absorbed 70.5 points
+Thor has 242.61 HP remaining
+Thor Attacked Masked Hero with power 78.4
+Masked Hero's Defence absorbed 13.94 points
+Masked Hero has 106.18 HP remaining
+Masked Hero Attacked Thor with power 96.72
+Thor's Defence absorbed 0 points
+Thor has 145.89 HP remaining
+Thor Attacked Masked Hero with power 79.2
+Masked Hero's Defence absorbed 13.26 points
+Masked Hero has 40.24 HP remaining
+Masked Hero Attacked Thor with power 94.64
+Thor's Defence absorbed 54.75 points
+Thor has 106 HP remaining
+Thor Attacked Masked Hero with power 56.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 0 HP remaining
+Battle Over.Thor is the winner
+
+Thor attacks first
+Thor Attacked Masked Hero with power 60.8
+Masked Hero Blocked the attack
+Masked Hero has 1241 HP remaining
+Masked Hero Attacked Thor with power 84.24
+Thor's Defence absorbed 10.5 points
+Thor has 1126.26 HP remaining
+Thor Attacked Masked Hero with power 64
+Masked Hero Blocked the attack
+Masked Hero has 1241 HP remaining
+Masked Hero Attacked Thor with power 75.92
+Thor's Defence absorbed 51.75 points
+Thor has 1102.09 HP remaining
+Thor Attacked Masked Hero with power 63.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 1177.8 HP remaining
+Masked Hero Attacked Thor with power 95.68
+Thor's Defence absorbed 34.5 points
+Thor has 1040.91 HP remaining
+Thor Attacked Masked Hero with power 64.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 1113 HP remaining
+Masked Hero Attacked Thor with power 89.44
+Thor's Defence absorbed 12.75 points
+Thor has 964.22 HP remaining
+Thor Attacked Masked Hero with power 64.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 1048.2 HP remaining
+Masked Hero Attacked Thor with power 96.72
+Thor's Defence absorbed 33 points
+Thor has 900.5 HP remaining
+Thor Attacked Masked Hero with power 72.8
+Masked Hero Blocked the attack
+Masked Hero has 1048.2 HP remaining
+Masked Hero Attacked Thor with power 102.96
+Thor's Defence absorbed 18 points
+Thor has 815.54 HP remaining
+Thor Attacked Masked Hero with power 59.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 989 HP remaining
+Masked Hero Attacked Thor with power 90.48
+Thor's Defence absorbed 17.25 points
+Thor has 742.31 HP remaining
+Thor Attacked Masked Hero with power 72.8
+Masked Hero's Defence absorbed 10.2 points
+Masked Hero has 926.4 HP remaining
+Masked Hero Attacked Thor with power 100.88
+Thor's Defence absorbed 70.5 points
+Thor has 711.93 HP remaining
+Thor Attacked Masked Hero with power 57.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 868.8 HP remaining
+Masked Hero Attacked Thor with power 89.44
+Thor's Defence absorbed 27 points
+Thor has 649.49 HP remaining
+Thor Attacked Masked Hero with power 65.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 803.2 HP remaining
+Masked Hero Attacked Thor with power 92.56
+Thor's Defence absorbed 41.25 points
+Thor has 598.18 HP remaining
+Thor Attacked Masked Hero with power 61.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 741.6 HP remaining
+Masked Hero Attacked Thor with power 98.8
+Thor's Defence absorbed 58.5 points
+Thor has 557.88 HP remaining
+Thor Attacked Masked Hero with power 68.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 672.8 HP remaining
+Masked Hero Attacked Thor with power 89.44
+Thor's Defence absorbed 66.75 points
+Thor has 535.19 HP remaining
+Thor Attacked Masked Hero with power 63.2
+Masked Hero's Defence absorbed 12.24 points
+Masked Hero has 621.84 HP remaining
+Masked Hero Attacked Thor with power 81.12
+Thor's Defence absorbed 65.25 points
+Thor has 519.32 HP remaining
+Thor Attacked Masked Hero with power 64.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 557.04 HP remaining
+Masked Hero Attacked Thor with power 84.24
+Thor's Defence absorbed 12.75 points
+Thor has 447.83 HP remaining
+Thor Attacked Masked Hero with power 77.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 479.44 HP remaining
+Masked Hero Attacked Thor with power 85.28
+Thor's Defence absorbed 0 points
+Thor has 362.55 HP remaining
+Thor Attacked Masked Hero with power 77.6
+Masked Hero's Defence absorbed 14.45 points
+Masked Hero has 416.29 HP remaining
+Masked Hero Attacked Thor with power 73.84
+Thor's Defence absorbed 35.25 points
+Thor has 323.96 HP remaining
+Thor Attacked Masked Hero with power 64
+Masked Hero's Defence absorbed 14.11 points
+Masked Hero has 366.4 HP remaining
+Masked Hero Attacked Thor with power 76.96
+Thor's Defence absorbed 55.5 points
+Thor has 302.5 HP remaining
+Thor Attacked Masked Hero with power 76
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 290.4 HP remaining
+Masked Hero Attacked Thor with power 87.36
+Thor's Defence absorbed 23.25 points
+Thor has 238.39 HP remaining
+Thor Attacked Masked Hero with power 60.8
+Masked Hero Blocked the attack
+Masked Hero has 290.4 HP remaining
+Masked Hero Attacked Thor with power 84.24
+Thor's Defence absorbed 50.25 points
+Thor has 204.4 HP remaining
+Thor Attacked Masked Hero with power 56.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 233.6 HP remaining
+Masked Hero Attacked Thor with power 88.4
+Thor's Defence absorbed 66.75 points
+Thor has 182.75 HP remaining
+Thor Attacked Masked Hero with power 56
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 177.6 HP remaining
+Masked Hero Attacked Thor with power 81.12
+Thor's Defence absorbed 0 points
+Thor has 101.63 HP remaining
+Thor Attacked Masked Hero with power 56.8
+Masked Hero Blocked the attack
+Masked Hero has 177.6 HP remaining
+Masked Hero Attacked Thor with power 78
+Thor's Defence absorbed 25.5 points
+Thor has 49.1299 HP remaining
+Thor Attacked Masked Hero with power 62.4
+Masked Hero's Defence absorbed 11.05 points
+Masked Hero has 126.25 HP remaining
+Masked Hero Attacked Thor with power 78
+Thor's Defence absorbed 21 points
+Thor has 0 HP remaining
+Battle Over.Masked Hero is the winner
+
+Masked Hero attacks first
+Masked Hero Attacked Thor with power 73.84
+Thor's Defence absorbed 38.25 points
+Thor has 1164.41 HP remaining
+Thor Attacked Masked Hero with power 56
+Masked Hero's Defence absorbed 13.09 points
+Masked Hero has 1198.09 HP remaining
+Masked Hero Attacked Thor with power 100.88
+Thor's Defence absorbed 57 points
+Thor has 1120.53 HP remaining
+Thor Attacked Masked Hero with power 56.8
+Masked Hero's Defence absorbed 12.58 points
+Masked Hero has 1153.87 HP remaining
+Masked Hero Attacked Thor with power 89.44
+Thor's Defence absorbed 40.5 points
+Thor has 1071.59 HP remaining
+Thor Attacked Masked Hero with power 71.2
+Masked Hero Blocked the attack
+Masked Hero has 1153.87 HP remaining
+Masked Hero Attacked Thor with power 72.8
+Thor's Defence absorbed 45 points
+Thor has 1043.79 HP remaining
+Thor Attacked Masked Hero with power 74.4
+Masked Hero Blocked the attack
+Masked Hero has 1153.87 HP remaining
+Masked Hero Attacked Thor with power 81.12
+Thor's Defence absorbed 45.75 points
+Thor has 1008.42 HP remaining
+Thor Attacked Masked Hero with power 76.8
+Masked Hero's Defence absorbed 11.39 points
+Masked Hero has 1088.46 HP remaining
+Masked Hero Attacked Thor with power 81.12
+Thor's Defence absorbed 54.75 points
+Thor has 982.05 HP remaining
+Thor Attacked Masked Hero with power 79.2
+Masked Hero's Defence absorbed 12.07 points
+Masked Hero has 1021.33 HP remaining
+Masked Hero Attacked Thor with power 75.92
+Thor's Defence absorbed 56.25 points
+Thor has 962.38 HP remaining
+Thor Attacked Masked Hero with power 75.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 946.13 HP remaining
+Masked Hero Attacked Thor with power 78
+Thor's Defence absorbed 33.75 points
+Thor has 918.13 HP remaining
+Thor Attacked Masked Hero with power 64
+Masked Hero's Defence absorbed 13.43 points
+Masked Hero has 895.56 HP remaining
+Masked Hero Attacked Thor with power 88.4
+Thor's Defence absorbed 27.75 points
+Thor has 857.48 HP remaining
+Thor Attacked Masked Hero with power 60.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 834.76 HP remaining
+Masked Hero Attacked Thor with power 73.84
+Thor's Defence absorbed 36 points
+Thor has 819.64 HP remaining
+Thor Attacked Masked Hero with power 79.2
+Masked Hero's Defence absorbed 12.07 points
+Masked Hero has 767.63 HP remaining
+Masked Hero Attacked Thor with power 84.24
+Thor's Defence absorbed 48 points
+Thor has 783.4 HP remaining
+Thor Attacked Masked Hero with power 59.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 708.43 HP remaining
+Masked Hero Attacked Thor with power 85.28
+Thor's Defence absorbed 32.25 points
+Thor has 730.37 HP remaining
+Thor Attacked Masked Hero with power 56.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 651.63 HP remaining
+Masked Hero Attacked Thor with power 98.8
+Thor's Defence absorbed 36 points
+Thor has 667.57 HP remaining
+Thor Attacked Masked Hero with power 70.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 581.23 HP remaining
+Masked Hero Attacked Thor with power 86.32
+Thor's Defence absorbed 28.5 points
+Thor has 609.75 HP remaining
+Thor Attacked Masked Hero with power 73.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 507.63 HP remaining
+Masked Hero Attacked Thor with power 102.96
+Thor's Defence absorbed 0 points
+Thor has 506.79 HP remaining
+Thor Attacked Masked Hero with power 58.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 449.23 HP remaining
+Masked Hero Attacked Thor with power 72.8
+Thor's Defence absorbed 48 points
+Thor has 481.99 HP remaining
+Thor Attacked Masked Hero with power 72
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 377.23 HP remaining
+Masked Hero Attacked Thor with power 85.28
+Thor's Defence absorbed 66.75 points
+Thor has 463.46 HP remaining
+Thor Attacked Masked Hero with power 75.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 302.03 HP remaining
+Masked Hero Attacked Thor with power 100.88
+Thor Blocked the attack
+Thor has 463.46 HP remaining
+Thor Attacked Masked Hero with power 59.2
+Masked Hero's Defence absorbed 12.24 points
+Masked Hero has 255.07 HP remaining
+Masked Hero Attacked Thor with power 89.44
+Thor's Defence absorbed 24 points
+Thor has 398.02 HP remaining
+Thor Attacked Masked Hero with power 66.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 188.67 HP remaining
+Masked Hero Attacked Thor with power 97.76
+Thor's Defence absorbed 57.75 points
+Thor has 358.01 HP remaining
+Thor Attacked Masked Hero with power 70.4
+Masked Hero Blocked the attack
+Masked Hero has 188.67 HP remaining
+Masked Hero Attacked Thor with power 89.44
+Thor's Defence absorbed 51 points
+Thor has 319.57 HP remaining
+Thor Attacked Masked Hero with power 60
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 128.67 HP remaining
+Masked Hero Attacked Thor with power 84.24
+Thor's Defence absorbed 40.5 points
+Thor has 275.83 HP remaining
+Thor Attacked Masked Hero with power 56
+Masked Hero Blocked the attack
+Masked Hero has 128.67 HP remaining
+Masked Hero Attacked Thor with power 86.32
+Thor's Defence absorbed 69.75 points
+Thor has 259.26 HP remaining
+Thor Attacked Masked Hero with power 72.8
+Masked Hero's Defence absorbed 11.9 points
+Masked Hero has 67.7699 HP remaining
+Masked Hero Attacked Thor with power 81.12
+Thor Blocked the attack
+Thor has 259.26 HP remaining
+Thor Attacked Masked Hero with power 62.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 5.36992 HP remaining
+Masked Hero Attacked Thor with power 94.64
+Thor's Defence absorbed 0 points
+Thor has 164.62 HP remaining
+Thor Attacked Masked Hero with power 58.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 0 HP remaining
+Battle Over.Thor is the winner
+
+Masked Hero attacks first
+Masked Hero Attacked Thor with power 92.56
+Thor's Defence absorbed 19.5 points
+Thor has 1126.94 HP remaining
+Thor Attacked Masked Hero with power 68.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 1172.2 HP remaining
+Masked Hero Attacked Thor with power 82.16
+Thor's Defence absorbed 15.75 points
+Thor has 1060.53 HP remaining
+Thor Attacked Masked Hero with power 64
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 1108.2 HP remaining
+Masked Hero Attacked Thor with power 72.8
+Thor's Defence absorbed 11.25 points
+Thor has 998.98 HP remaining
+Thor Attacked Masked Hero with power 56.8
+Masked Hero's Defence absorbed 11.22 points
+Masked Hero has 1062.62 HP remaining
+Masked Hero Attacked Thor with power 84.24
+Thor's Defence absorbed 68.25 points
+Thor has 982.99 HP remaining
+Thor Attacked Masked Hero with power 56.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 1005.82 HP remaining
+Masked Hero Attacked Thor with power 88.4
+Thor Blocked the attack
+Thor has 982.99 HP remaining
+Thor Attacked Masked Hero with power 68.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 937.02 HP remaining
+Masked Hero Attacked Thor with power 75.92
+Thor's Defence absorbed 20.25 points
+Thor has 927.32 HP remaining
+Thor Attacked Masked Hero with power 66.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 870.62 HP remaining
+Masked Hero Attacked Thor with power 95.68
+Thor's Defence absorbed 60 points
+Thor has 891.64 HP remaining
+Thor Attacked Masked Hero with power 76
+Masked Hero Blocked the attack
+Masked Hero has 870.62 HP remaining
+Masked Hero Attacked Thor with power 76.96
+Thor's Defence absorbed 44.25 points
+Thor has 858.93 HP remaining
+Thor Attacked Masked Hero with power 67.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 803.42 HP remaining
+Masked Hero Attacked Thor with power 99.84
+Thor's Defence absorbed 0 points
+Thor has 759.09 HP remaining
+Thor Attacked Masked Hero with power 74.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 729.02 HP remaining
+Masked Hero Attacked Thor with power 100.88
+Thor's Defence absorbed 0 points
+Thor has 658.21 HP remaining
+Thor Attacked Masked Hero with power 72
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 657.02 HP remaining
+Masked Hero Attacked Thor with power 75.92
+Thor's Defence absorbed 53.25 points
+Thor has 635.54 HP remaining
+Thor Attacked Masked Hero with power 69.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 587.42 HP remaining
+Masked Hero Attacked Thor with power 92.56
+Thor's Defence absorbed 33.75 points
+Thor has 576.73 HP remaining
+Thor Attacked Masked Hero with power 76
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 511.42 HP remaining
+Masked Hero Attacked Thor with power 82.16
+Thor's Defence absorbed 63 points
+Thor has 557.57 HP remaining
+Thor Attacked Masked Hero with power 70.4
+Masked Hero's Defence absorbed 14.11 points
+Masked Hero has 455.13 HP remaining
+Masked Hero Attacked Thor with power 74.88
+Thor's Defence absorbed 10.5 points
+Thor has 493.19 HP remaining
+Thor Attacked Masked Hero with power 73.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 381.53 HP remaining
+Masked Hero Attacked Thor with power 81.12
+Thor's Defence absorbed 11.25 points
+Thor has 423.32 HP remaining
+Thor Attacked Masked Hero with power 73.6
+Masked Hero's Defence absorbed 13.26 points
+Masked Hero has 321.19 HP remaining
+Masked Hero Attacked Thor with power 76.96
+Thor's Defence absorbed 68.25 points
+Thor has 414.61 HP remaining
+Thor Attacked Masked Hero with power 65.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 255.59 HP remaining
+Masked Hero Attacked Thor with power 74.88
+Thor's Defence absorbed 30 points
+Thor has 369.73 HP remaining
+Thor Attacked Masked Hero with power 79.2
+Masked Hero's Defence absorbed 10.03 points
+Masked Hero has 186.42 HP remaining
+Masked Hero Attacked Thor with power 87.36
+Thor's Defence absorbed 0 points
+Thor has 282.37 HP remaining
+Thor Attacked Masked Hero with power 63.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 123.22 HP remaining
+Masked Hero Attacked Thor with power 85.28
+Thor's Defence absorbed 38.25 points
+Thor has 235.34 HP remaining
+Thor Attacked Masked Hero with power 61.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 61.62 HP remaining
+Masked Hero Attacked Thor with power 75.92
+Thor's Defence absorbed 15 points
+Thor has 174.42 HP remaining
+Thor Attacked Masked Hero with power 62.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 0 HP remaining
+Battle Over.Thor is the winner
+
+Masked Hero attacks first
+Masked Hero Attacked Thor with power 100.88
+Thor's Defence absorbed 42.75 points
+Thor has 1141.87 HP remaining
+Thor Attacked Masked Hero with power 68
+Masked Hero Blocked the attack
+Masked Hero has 1241 HP remaining
+Masked Hero Attacked Thor with power 75.92
+Thor's Defence absorbed 63.75 points
+Thor has 1129.7 HP remaining
+Thor Attacked Masked Hero with power 60
+Masked Hero's Defence absorbed 14.28 points
+Masked Hero has 1195.28 HP remaining
+Masked Hero Attacked Thor with power 76.96
+Thor's Defence absorbed 16.5 points
+Thor has 1069.24 HP remaining
+Thor Attacked Masked Hero with power 79.2
+Masked Hero's Defence absorbed 10.37 points
+Masked Hero has 1126.45 HP remaining
+Masked Hero Attacked Thor with power 79.04
+Thor's Defence absorbed 69 points
+Thor has 1059.2 HP remaining
+Thor Attacked Masked Hero with power 71.2
+Masked Hero's Defence absorbed 14.45 points
+Masked Hero has 1069.7 HP remaining
+Masked Hero Attacked Thor with power 91.52
+Thor's Defence absorbed 60 points
+Thor has 1027.68 HP remaining
+Thor Attacked Masked Hero with power 69.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 1000.1 HP remaining
+Masked Hero Attacked Thor with power 100.88
+Thor's Defence absorbed 12 points
+Thor has 938.8 HP remaining
+Thor Attacked Masked Hero with power 75.2
+Masked Hero's Defence absorbed 12.92 points
+Masked Hero has 937.82 HP remaining
+Masked Hero Attacked Thor with power 102.96
+Thor's Defence absorbed 23.25 points
+Thor has 859.09 HP remaining
+Thor Attacked Masked Hero with power 78.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 859.42 HP remaining
+Masked Hero Attacked Thor with power 99.84
+Thor's Defence absorbed 43.5 points
+Thor has 802.75 HP remaining
+Thor Attacked Masked Hero with power 64
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 795.42 HP remaining
+Masked Hero Attacked Thor with power 101.92
+Thor's Defence absorbed 60 points
+Thor has 760.83 HP remaining
+Thor Attacked Masked Hero with power 67.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 728.22 HP remaining
+Masked Hero Attacked Thor with power 94.64
+Thor's Defence absorbed 54.75 points
+Thor has 720.94 HP remaining
+Thor Attacked Masked Hero with power 60.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 667.42 HP remaining
+Masked Hero Attacked Thor with power 94.64
+Thor's Defence absorbed 0 points
+Thor has 626.3 HP remaining
+Thor Attacked Masked Hero with power 58.4
+Masked Hero's Defence absorbed 13.6 points
+Masked Hero has 622.62 HP remaining
+Masked Hero Attacked Thor with power 90.48
+Thor's Defence absorbed 0 points
+Thor has 535.82 HP remaining
+Thor Attacked Masked Hero with power 58.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 564.22 HP remaining
+Masked Hero Attacked Thor with power 94.64
+Thor's Defence absorbed 16.5 points
+Thor has 457.68 HP remaining
+Thor Attacked Masked Hero with power 68.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 495.42 HP remaining
+Masked Hero Attacked Thor with power 80.08
+Thor's Defence absorbed 31.5 points
+Thor has 409.1 HP remaining
+Thor Attacked Masked Hero with power 65.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 429.82 HP remaining
+Masked Hero Attacked Thor with power 83.2
+Thor's Defence absorbed 51 points
+Thor has 376.9 HP remaining
+Thor Attacked Masked Hero with power 76
+Masked Hero's Defence absorbed 12.58 points
+Masked Hero has 366.4 HP remaining
+Masked Hero Attacked Thor with power 82.16
+Thor's Defence absorbed 39 points
+Thor has 333.74 HP remaining
+Thor Attacked Masked Hero with power 72.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 293.6 HP remaining
+Masked Hero Attacked Thor with power 83.2
+Thor's Defence absorbed 69.75 points
+Thor has 320.29 HP remaining
+Thor Attacked Masked Hero with power 63.2
+Masked Hero's Defence absorbed 13.26 points
+Masked Hero has 243.66 HP remaining
+Masked Hero Attacked Thor with power 99.84
+Thor's Defence absorbed 70.5 points
+Thor has 290.95 HP remaining
+Thor Attacked Masked Hero with power 59.2
+Masked Hero's Defence absorbed 11.05 points
+Masked Hero has 195.51 HP remaining
+Masked Hero Attacked Thor with power 94.64
+Thor's Defence absorbed 69 points
+Thor has 265.31 HP remaining
+Thor Attacked Masked Hero with power 74.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 121.11 HP remaining
+Masked Hero Attacked Thor with power 87.36
+Thor's Defence absorbed 39.75 points
+Thor has 217.7 HP remaining
+Thor Attacked Masked Hero with power 75.2
+Masked Hero's Defence absorbed 14.62 points
+Masked Hero has 60.53 HP remaining
+Masked Hero Attacked Thor with power 97.76
+Thor Blocked the attack
+Thor has 217.7 HP remaining
+Thor Attacked Masked Hero with power 66.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 0 HP remaining
+Battle Over.Thor is the winner
+
+Masked Hero attacks first
+Masked Hero Attacked Thor with power 88.4
+Thor's Defence absorbed 24 points
+Thor has 1135.6 HP remaining
+Thor Attacked Masked Hero with power 62.4
+Masked Hero Blocked the attack
+Masked Hero has 1241 HP remaining
+Masked Hero Attacked Thor with power 96.72
+Thor's Defence absorbed 64.5 points
+Thor has 1103.38 HP remaining
+Thor Attacked Masked Hero with power 66.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 1174.6 HP remaining
+Masked Hero Attacked Thor with power 91.52
+Thor's Defence absorbed 62.25 points
+Thor has 1074.11 HP remaining
+Thor Attacked Masked Hero with power 64.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 1109.8 HP remaining
+Masked Hero Attacked Thor with power 82.16
+Thor's Defence absorbed 16.5 points
+Thor has 1008.45 HP remaining
+Thor Attacked Masked Hero with power 60
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 1049.8 HP remaining
+Masked Hero Attacked Thor with power 91.52
+Thor's Defence absorbed 12.75 points
+Thor has 929.68 HP remaining
+Thor Attacked Masked Hero with power 68
+Masked Hero Blocked the attack
+Masked Hero has 1049.8 HP remaining
+Masked Hero Attacked Thor with power 95.68
+Thor's Defence absorbed 53.25 points
+Thor has 887.25 HP remaining
+Thor Attacked Masked Hero with power 62.4
+Masked Hero's Defence absorbed 10.88 points
+Masked Hero has 998.28 HP remaining
+Masked Hero Attacked Thor with power 91.52
+Thor's Defence absorbed 27.75 points
+Thor has 823.48 HP remaining
+Thor Attacked Masked Hero with power 61.6
+Masked Hero's Defence absorbed 13.26 points
+Masked Hero has 949.94 HP remaining
+Masked Hero Attacked Thor with power 98.8
+Thor's Defence absorbed 54 points
+Thor has 778.68 HP remaining
+Thor Attacked Masked Hero with power 67.2
+Masked Hero Blocked the attack
+Masked Hero has 949.94 HP remaining
+Masked Hero Attacked Thor with power 82.16
+Thor's Defence absorbed 42 points
+Thor has 738.52 HP remaining
+Thor Attacked Masked Hero with power 56.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 893.14 HP remaining
+Masked Hero Attacked Thor with power 90.48
+Thor's Defence absorbed 55.5 points
+Thor has 703.54 HP remaining
+Thor Attacked Masked Hero with power 71.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 821.94 HP remaining
+Masked Hero Attacked Thor with power 94.64
+Thor's Defence absorbed 12 points
+Thor has 620.9 HP remaining
+Thor Attacked Masked Hero with power 68
+Masked Hero's Defence absorbed 11.22 points
+Masked Hero has 765.16 HP remaining
+Masked Hero Attacked Thor with power 98.8
+Thor's Defence absorbed 0 points
+Thor has 522.1 HP remaining
+Thor Attacked Masked Hero with power 71.2
+Masked Hero's Defence absorbed 12.92 points
+Masked Hero has 706.88 HP remaining
+Masked Hero Attacked Thor with power 78
+Thor's Defence absorbed 42.75 points
+Thor has 486.85 HP remaining
+Thor Attacked Masked Hero with power 68.8
+Masked Hero's Defence absorbed 10.2 points
+Masked Hero has 648.28 HP remaining
+Masked Hero Attacked Thor with power 75.92
+Thor's Defence absorbed 13.5 points
+Thor has 424.43 HP remaining
+Thor Attacked Masked Hero with power 65.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 582.68 HP remaining
+Masked Hero Attacked Thor with power 100.88
+Thor's Defence absorbed 62.25 points
+Thor has 385.8 HP remaining
+Thor Attacked Masked Hero with power 67.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 515.48 HP remaining
+Masked Hero Attacked Thor with power 86.32
+Thor's Defence absorbed 59.25 points
+Thor has 358.73 HP remaining
+Thor Attacked Masked Hero with power 72
+Masked Hero's Defence absorbed 11.22 points
+Masked Hero has 454.7 HP remaining
+Masked Hero Attacked Thor with power 72.8
+Thor's Defence absorbed 0 points
+Thor has 285.93 HP remaining
+Thor Attacked Masked Hero with power 66.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 388.3 HP remaining
+Masked Hero Attacked Thor with power 87.36
+Thor Blocked the attack
+Thor has 285.93 HP remaining
+Thor Attacked Masked Hero with power 56.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 331.5 HP remaining
+Masked Hero Attacked Thor with power 89.44
+Thor's Defence absorbed 0 points
+Thor has 196.49 HP remaining
+Thor Attacked Masked Hero with power 68.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 262.7 HP remaining
+Masked Hero Attacked Thor with power 73.84
+Thor's Defence absorbed 72.75 points
+Thor has 195.4 HP remaining
+Thor Attacked Masked Hero with power 73.6
+Masked Hero's Defence absorbed 11.22 points
+Masked Hero has 200.32 HP remaining
+Masked Hero Attacked Thor with power 92.56
+Thor's Defence absorbed 64.5 points
+Thor has 167.34 HP remaining
+Thor Attacked Masked Hero with power 72
+Masked Hero Blocked the attack
+Masked Hero has 200.32 HP remaining
+Masked Hero Attacked Thor with power 72.8
+Thor's Defence absorbed 28.5 points
+Thor has 123.04 HP remaining
+Thor Attacked Masked Hero with power 77.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 122.72 HP remaining
+Masked Hero Attacked Thor with power 97.76
+Thor's Defence absorbed 0 points
+Thor has 25.2799 HP remaining
+Thor Attacked Masked Hero with power 66.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 56.3199 HP remaining
+Masked Hero Attacked Thor with power 80.08
+Thor's Defence absorbed 51 points
+Thor has 0 HP remaining
+Battle Over.Masked Hero is the winner
+
+Thor attacks first
+Thor Attacked Masked Hero with power 71.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 1169.8 HP remaining
+Masked Hero Attacked Thor with power 73.84
+Thor's Defence absorbed 0 points
+Thor has 1126.16 HP remaining
+Thor Attacked Masked Hero with power 78.4
+Masked Hero's Defence absorbed 12.75 points
+Masked Hero has 1104.15 HP remaining
+Masked Hero Attacked Thor with power 101.92
+Thor's Defence absorbed 37.5 points
+Thor has 1061.74 HP remaining
+Thor Attacked Masked Hero with power 44
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 1060.15 HP remaining
+Masked Hero Attacked Thor with power 83.2
+Thor's Defence absorbed 70.5 points
+Thor has 1049.04 HP remaining
+Thor Attacked Masked Hero with power 63.2
+Masked Hero Blocked the attack
+Masked Hero has 1060.15 HP remaining
+Masked Hero Attacked Thor with power 92.56
+Thor's Defence absorbed 52.5 points
+Thor has 1008.98 HP remaining
+Thor Attacked Masked Hero with power 71.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 988.95 HP remaining
+Masked Hero Attacked Thor with power 90.48
+Thor Blocked the attack
+Thor has 1008.98 HP remaining
+Thor Attacked Masked Hero with power 62.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 926.55 HP remaining
+Masked Hero Attacked Thor with power 94.64
+Thor's Defence absorbed 54.75 points
+Thor has 969.09 HP remaining
+Thor Attacked Masked Hero with power 65.6
+Masked Hero's Defence absorbed 14.28 points
+Masked Hero has 875.23 HP remaining
+Masked Hero Attacked Thor with power 58.24
+Thor's Defence absorbed 39 points
+Thor has 949.85 HP remaining
+Thor Attacked Masked Hero with power 55.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 820.03 HP remaining
+Masked Hero Attacked Thor with power 54.08
+Thor's Defence absorbed 39.75 points
+Thor has 935.52 HP remaining
+Thor Attacked Masked Hero with power 53.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 766.43 HP remaining
+Masked Hero Attacked Thor with power 64.48
+Thor's Defence absorbed 16.5 points
+Thor has 887.54 HP remaining
+Thor Attacked Masked Hero with power 68.8
+Masked Hero's Defence absorbed 12.92 points
+Masked Hero has 710.55 HP remaining
+Masked Hero Attacked Thor with power 95.68
+Thor's Defence absorbed 27.75 points
+Thor has 819.61 HP remaining
+Thor Attacked Masked Hero with power 74.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 636.15 HP remaining
+Masked Hero Attacked Thor with power 69.68
+Thor's Defence absorbed 21.75 points
+Thor has 771.68 HP remaining
+Thor Attacked Masked Hero with power 49.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 586.55 HP remaining
+Masked Hero Attacked Thor with power 75.92
+Thor's Defence absorbed 41.25 points
+Thor has 737.01 HP remaining
+Thor Attacked Masked Hero with power 65.6
+Masked Hero Blocked the attack
+Masked Hero has 586.55 HP remaining
+Masked Hero Attacked Thor with power 52
+Thor's Defence absorbed 20.25 points
+Thor has 705.26 HP remaining
+Thor Attacked Masked Hero with power 69.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 516.95 HP remaining
+Masked Hero Attacked Thor with power 92.56
+Thor's Defence absorbed 70.5 points
+Thor has 683.2 HP remaining
+Thor Attacked Masked Hero with power 40.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 476.15 HP remaining
+Masked Hero Attacked Thor with power 60.32
+Thor's Defence absorbed 53.25 points
+Thor has 676.13 HP remaining
+Thor Attacked Masked Hero with power 79.2
+Masked Hero's Defence absorbed 12.75 points
+Masked Hero has 409.7 HP remaining
+Masked Hero Attacked Thor with power 84.24
+Thor's Defence absorbed 45 points
+Thor has 636.89 HP remaining
+Thor Attacked Masked Hero with power 40.8
+Masked Hero's Defence absorbed 11.22 points
+Masked Hero has 380.12 HP remaining
+Masked Hero Attacked Thor with power 78
+Thor's Defence absorbed 45.75 points
+Thor has 604.64 HP remaining
+Thor Attacked Masked Hero with power 72
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 308.12 HP remaining
+Masked Hero Attacked Thor with power 58.24
+Thor's Defence absorbed 44.25 points
+Thor has 590.65 HP remaining
+Thor Attacked Masked Hero with power 55.2
+Masked Hero's Defence absorbed 10.88 points
+Masked Hero has 263.8 HP remaining
+Masked Hero Attacked Thor with power 52
+Thor's Defence absorbed 15.75 points
+Thor has 554.4 HP remaining
+Thor Attacked Masked Hero with power 67.2
+Masked Hero Blocked the attack
+Masked Hero has 263.8 HP remaining
+Masked Hero Attacked Thor with power 97.76
+Thor's Defence absorbed 21.75 points
+Thor has 478.39 HP remaining
+Thor Attacked Masked Hero with power 47.2
+Masked Hero's Defence absorbed 12.58 points
+Masked Hero has 229.18 HP remaining
+Masked Hero Attacked Thor with power 79.04
+Thor's Defence absorbed 69 points
+Thor has 468.35 HP remaining
+Thor Attacked Masked Hero with power 45.6
+Masked Hero's Defence absorbed 11.22 points
+Masked Hero has 194.8 HP remaining
+Masked Hero Attacked Thor with power 60.32
+Thor's Defence absorbed 0 points
+Thor has 408.03 HP remaining
+Thor Attacked Masked Hero with power 53.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 141.2 HP remaining
+Masked Hero Attacked Thor with power 72.8
+Thor's Defence absorbed 0 points
+Thor has 335.23 HP remaining
+Thor Attacked Masked Hero with power 69.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 71.6 HP remaining
+Masked Hero Attacked Thor with power 81.12
+Thor's Defence absorbed 54.75 points
+Thor has 308.86 HP remaining
+Thor Attacked Masked Hero with power 72
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 0 HP remaining
+Battle Over.Thor is the winner
+
+Masked Hero attacks first
+Masked Hero Attacked Thor with power 68.64
+Thor's Defence absorbed 60 points
+Thor has 1191.36 HP remaining
+Thor Attacked Masked Hero with power 60
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 1181 HP remaining
+Masked Hero Attacked Thor with power 81.12
+Thor's Defence absorbed 14.25 points
+Thor has 1124.49 HP remaining
+Thor Attacked Masked Hero with power 53.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 1127.4 HP remaining
+Masked Hero Attacked Thor with power 82.16
+Thor's Defence absorbed 67.5 points
+Thor has 1109.83 HP remaining
+Thor Attacked Masked Hero with power 49.6
+Masked Hero's Defence absorbed 11.05 points
+Masked Hero has 1088.85 HP remaining
+Masked Hero Attacked Thor with power 85.28
+Thor's Defence absorbed 15.75 points
+Thor has 1040.3 HP remaining
+Thor Attacked Masked Hero with power 53.6
+Masked Hero Blocked the attack
+Masked Hero has 1088.85 HP remaining
+Masked Hero Attacked Thor with power 82.16
+Thor's Defence absorbed 63 points
+Thor has 1021.14 HP remaining
+Thor Attacked Masked Hero with power 60
+Masked Hero's Defence absorbed 10.71 points
+Masked Hero has 1039.56 HP remaining
+Masked Hero Attacked Thor with power 54.08
+Thor's Defence absorbed 45 points
+Thor has 1012.06 HP remaining
+Thor Attacked Masked Hero with power 68
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 971.56 HP remaining
+Masked Hero Attacked Thor with power 93.6
+Thor's Defence absorbed 66.75 points
+Thor has 985.21 HP remaining
+Thor Attacked Masked Hero with power 52
+Masked Hero Blocked the attack
+Masked Hero has 971.56 HP remaining
+Masked Hero Attacked Thor with power 91.52
+Thor's Defence absorbed 71.25 points
+Thor has 964.94 HP remaining
+Thor Attacked Masked Hero with power 60.8
+Masked Hero Blocked the attack
+Masked Hero has 971.56 HP remaining
+Masked Hero Attacked Thor with power 91.52
+Thor's Defence absorbed 12.75 points
+Thor has 886.17 HP remaining
+Thor Attacked Masked Hero with power 71.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 900.36 HP remaining
+Masked Hero Attacked Thor with power 63.44
+Thor's Defence absorbed 57.75 points
+Thor has 880.48 HP remaining
+Thor Attacked Masked Hero with power 44
+Masked Hero's Defence absorbed 12.58 points
+Masked Hero has 868.94 HP remaining
+Masked Hero Attacked Thor with power 75.92
+Thor's Defence absorbed 67.5 points
+Thor has 872.06 HP remaining
+Thor Attacked Masked Hero with power 72
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 796.94 HP remaining
+Masked Hero Attacked Thor with power 91.52
+Thor's Defence absorbed 46.5 points
+Thor has 827.04 HP remaining
+Thor Attacked Masked Hero with power 47.2
+Masked Hero's Defence absorbed 13.26 points
+Masked Hero has 763 HP remaining
+Masked Hero Attacked Thor with power 58.24
+Thor's Defence absorbed 57 points
+Thor has 825.8 HP remaining
+Thor Attacked Masked Hero with power 56.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 706.2 HP remaining
+Masked Hero Attacked Thor with power 58.24
+Thor's Defence absorbed 48 points
+Thor has 815.56 HP remaining
+Thor Attacked Masked Hero with power 55.2
+Masked Hero's Defence absorbed 14.45 points
+Masked Hero has 665.45 HP remaining
+Masked Hero Attacked Thor with power 101.92
+Thor's Defence absorbed 11.25 points
+Thor has 724.89 HP remaining
+Thor Attacked Masked Hero with power 68
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 597.45 HP remaining
+Masked Hero Attacked Thor with power 66.56
+Thor's Defence absorbed 0 points
+Thor has 658.33 HP remaining
+Thor Attacked Masked Hero with power 40.8
+Masked Hero Blocked the attack
+Masked Hero has 597.45 HP remaining
+Masked Hero Attacked Thor with power 74.88
+Thor's Defence absorbed 55.5 points
+Thor has 638.95 HP remaining
+Thor Attacked Masked Hero with power 56
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 541.45 HP remaining
+Masked Hero Attacked Thor with power 69.68
+Thor's Defence absorbed 0 points
+Thor has 569.27 HP remaining
+Thor Attacked Masked Hero with power 50.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 491.05 HP remaining
+Masked Hero Attacked Thor with power 66.56
+Thor's Defence absorbed 61.5 points
+Thor has 564.21 HP remaining
+Thor Attacked Masked Hero with power 59.2
+Masked Hero Blocked the attack
+Masked Hero has 491.05 HP remaining
+Masked Hero Attacked Thor with power 63.44
+Thor Blocked the attack
+Thor has 564.21 HP remaining
+Thor Attacked Masked Hero with power 75.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 415.85 HP remaining
+Masked Hero Attacked Thor with power 56.16
+Thor's Defence absorbed 46.5 points
+Thor has 554.55 HP remaining
+Thor Attacked Masked Hero with power 60
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 355.85 HP remaining
+Masked Hero Attacked Thor with power 55.12
+Thor Blocked the attack
+Thor has 554.55 HP remaining
+Thor Attacked Masked Hero with power 50.4
+Masked Hero's Defence absorbed 11.56 points
+Masked Hero has 317.01 HP remaining
+Masked Hero Attacked Thor with power 52
+Thor's Defence absorbed 13.5 points
+Thor has 516.05 HP remaining
+Thor Attacked Masked Hero with power 72
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 245.01 HP remaining
+Masked Hero Attacked Thor with power 86.32
+Thor's Defence absorbed 0 points
+Thor has 429.73 HP remaining
+Thor Attacked Masked Hero with power 72.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 172.21 HP remaining
+Masked Hero Attacked Thor with power 62.4
+Thor's Defence absorbed 60 points
+Thor has 427.33 HP remaining
+Thor Attacked Masked Hero with power 66.4
+Masked Hero's Defence absorbed 12.58 points
+Masked Hero has 118.39 HP remaining
+Masked Hero Attacked Thor with power 80.08
+Thor's Defence absorbed 21.75 points
+Thor has 369 HP remaining
+Thor Attacked Masked Hero with power 52.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 65.59 HP remaining
+Masked Hero Attacked Thor with power 71.76
+Thor's Defence absorbed 30 points
+Thor has 327.24 HP remaining
+Thor Attacked Masked Hero with power 50.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 15.19 HP remaining
+Masked Hero Attacked Thor with power 55.12
+Thor's Defence absorbed 0 points
+Thor has 272.12 HP remaining
+Thor Attacked Masked Hero with power 73.6
+Masked Hero Blocked the attack
+Masked Hero has 15.19 HP remaining
+Masked Hero Attacked Thor with power 90.48
+Thor's Defence absorbed 61.5 points
+Thor has 243.14 HP remaining
+Thor Attacked Masked Hero with power 44.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 0 HP remaining
+Battle Over.Thor is the winner
+
+Masked Hero attacks first
+Masked Hero Attacked Thor with power 97.76
+Thor's Defence absorbed 41.25 points
+Thor has 1143.49 HP remaining
+Thor Attacked Masked Hero with power 63.2
+Masked Hero Blocked the attack
+Masked Hero has 1241 HP remaining
+Masked Hero Attacked Thor with power 94.64
+Thor's Defence absorbed 48 points
+Thor has 1096.85 HP remaining
+Thor Attacked Masked Hero with power 68
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 1173 HP remaining
+Masked Hero Attacked Thor with power 88.4
+Thor's Defence absorbed 37.5 points
+Thor has 1045.95 HP remaining
+Thor Attacked Masked Hero with power 75.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 1097.8 HP remaining
+Masked Hero Attacked Thor with power 55.12
+Thor's Defence absorbed 38.25 points
+Thor has 1029.08 HP remaining
+Thor Attacked Masked Hero with power 76
+Masked Hero's Defence absorbed 11.39 points
+Masked Hero has 1033.19 HP remaining
+Masked Hero Attacked Thor with power 71.76
+Thor's Defence absorbed 15.75 points
+Thor has 973.07 HP remaining
+Thor Attacked Masked Hero with power 50.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 982.79 HP remaining
+Masked Hero Attacked Thor with power 61.36
+Thor's Defence absorbed 11.25 points
+Thor has 922.96 HP remaining
+Thor Attacked Masked Hero with power 48.8
+Masked Hero Blocked the attack
+Masked Hero has 982.79 HP remaining
+Masked Hero Attacked Thor with power 102.96
+Thor's Defence absorbed 71.25 points
+Thor has 891.25 HP remaining
+Thor Attacked Masked Hero with power 44.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 937.99 HP remaining
+Masked Hero Attacked Thor with power 59.28
+Thor's Defence absorbed 0 points
+Thor has 831.97 HP remaining
+Thor Attacked Masked Hero with power 40
+Masked Hero's Defence absorbed 13.77 points
+Masked Hero has 911.76 HP remaining
+Masked Hero Attacked Thor with power 61.36
+Thor's Defence absorbed 28.5 points
+Thor has 799.11 HP remaining
+Thor Attacked Masked Hero with power 52.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 858.96 HP remaining
+Masked Hero Attacked Thor with power 90.48
+Thor's Defence absorbed 25.5 points
+Thor has 734.13 HP remaining
+Thor Attacked Masked Hero with power 54.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 804.56 HP remaining
+Masked Hero Attacked Thor with power 88.4
+Thor's Defence absorbed 72.75 points
+Thor has 718.48 HP remaining
+Thor Attacked Masked Hero with power 49.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 754.96 HP remaining
+Masked Hero Attacked Thor with power 98.8
+Thor's Defence absorbed 47.25 points
+Thor has 666.93 HP remaining
+Thor Attacked Masked Hero with power 50.4
+Masked Hero Blocked the attack
+Masked Hero has 754.96 HP remaining
+Masked Hero Attacked Thor with power 84.24
+Thor's Defence absorbed 0 points
+Thor has 582.69 HP remaining
+Thor Attacked Masked Hero with power 72.8
+Masked Hero's Defence absorbed 14.62 points
+Masked Hero has 696.78 HP remaining
+Masked Hero Attacked Thor with power 76.96
+Thor's Defence absorbed 30 points
+Thor has 535.73 HP remaining
+Thor Attacked Masked Hero with power 79.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 617.58 HP remaining
+Masked Hero Attacked Thor with power 98.8
+Thor's Defence absorbed 54.75 points
+Thor has 491.68 HP remaining
+Thor Attacked Masked Hero with power 49.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 567.98 HP remaining
+Masked Hero Attacked Thor with power 81.12
+Thor's Defence absorbed 21 points
+Thor has 431.56 HP remaining
+Thor Attacked Masked Hero with power 56
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 511.98 HP remaining
+Masked Hero Attacked Thor with power 95.68
+Thor's Defence absorbed 18 points
+Thor has 353.88 HP remaining
+Thor Attacked Masked Hero with power 76.8
+Masked Hero's Defence absorbed 10.03 points
+Masked Hero has 445.21 HP remaining
+Masked Hero Attacked Thor with power 98.8
+Thor's Defence absorbed 13.5 points
+Thor has 268.58 HP remaining
+Thor Attacked Masked Hero with power 55.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 390.01 HP remaining
+Masked Hero Attacked Thor with power 61.36
+Thor's Defence absorbed 0 points
+Thor has 207.22 HP remaining
+Thor Attacked Masked Hero with power 52.8
+Masked Hero's Defence absorbed 10.37 points
+Masked Hero has 347.58 HP remaining
+Masked Hero Attacked Thor with power 72.8
+Thor's Defence absorbed 66 points
+Thor has 200.42 HP remaining
+Thor Attacked Masked Hero with power 50.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 297.18 HP remaining
+Masked Hero Attacked Thor with power 52
+Thor's Defence absorbed 0 points
+Thor has 148.42 HP remaining
+Thor Attacked Masked Hero with power 59.2
+Masked Hero's Defence absorbed 10.2 points
+Masked Hero has 248.18 HP remaining
+Masked Hero Attacked Thor with power 101.92
+Thor's Defence absorbed 0 points
+Thor has 46.5 HP remaining
+Thor Attacked Masked Hero with power 54.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 193.78 HP remaining
+Masked Hero Attacked Thor with power 52
+Thor's Defence absorbed 42 points
+Thor has 36.5 HP remaining
+Thor Attacked Masked Hero with power 47.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 146.58 HP remaining
+Masked Hero Attacked Thor with power 81.12
+Thor's Defence absorbed 16.5 points
+Thor has 0 HP remaining
+Battle Over.Masked Hero is the winner
+
+Masked Hero attacks first
+Masked Hero Attacked Thor with power 70.72
+Thor's Defence absorbed 53.25 points
+Thor has 1182.53 HP remaining
+Thor Attacked Masked Hero with power 67.2
+Masked Hero's Defence absorbed 14.62 points
+Masked Hero has 1188.42 HP remaining
+Masked Hero Attacked Thor with power 98.8
+Thor's Defence absorbed 12.75 points
+Thor has 1096.48 HP remaining
+Thor Attacked Masked Hero with power 68.8
+Masked Hero's Defence absorbed 13.6 points
+Masked Hero has 1133.22 HP remaining
+Masked Hero Attacked Thor with power 61.36
+Thor Blocked the attack
+Thor has 1096.48 HP remaining
+Thor Attacked Masked Hero with power 68.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 1064.42 HP remaining
+Masked Hero Attacked Thor with power 67.6
+Thor's Defence absorbed 27 points
+Thor has 1055.88 HP remaining
+Thor Attacked Masked Hero with power 60.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 1003.62 HP remaining
+Masked Hero Attacked Thor with power 74.88
+Thor's Defence absorbed 24 points
+Thor has 1005 HP remaining
+Thor Attacked Masked Hero with power 73.6
+Masked Hero's Defence absorbed 11.73 points
+Masked Hero has 941.75 HP remaining
+Masked Hero Attacked Thor with power 95.68
+Thor's Defence absorbed 72.75 points
+Thor has 982.07 HP remaining
+Thor Attacked Masked Hero with power 73.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 868.15 HP remaining
+Masked Hero Attacked Thor with power 58.24
+Thor's Defence absorbed 23.25 points
+Thor has 947.08 HP remaining
+Thor Attacked Masked Hero with power 72.8
+Masked Hero Blocked the attack
+Masked Hero has 868.15 HP remaining
+Masked Hero Attacked Thor with power 58.24
+Thor Blocked the attack
+Thor has 947.08 HP remaining
+Thor Attacked Masked Hero with power 49.6
+Masked Hero Blocked the attack
+Masked Hero has 868.15 HP remaining
+Masked Hero Attacked Thor with power 57.2
+Thor's Defence absorbed 0 points
+Thor has 889.88 HP remaining
+Thor Attacked Masked Hero with power 71.2
+Masked Hero's Defence absorbed 13.43 points
+Masked Hero has 810.38 HP remaining
+Masked Hero Attacked Thor with power 58.24
+Thor's Defence absorbed 27 points
+Thor has 858.64 HP remaining
+Thor Attacked Masked Hero with power 53.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 756.78 HP remaining
+Masked Hero Attacked Thor with power 81.12
+Thor's Defence absorbed 17.25 points
+Thor has 794.77 HP remaining
+Thor Attacked Masked Hero with power 74.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 682.38 HP remaining
+Masked Hero Attacked Thor with power 97.76
+Thor's Defence absorbed 60.75 points
+Thor has 757.76 HP remaining
+Thor Attacked Masked Hero with power 53.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 628.78 HP remaining
+Masked Hero Attacked Thor with power 70.72
+Thor's Defence absorbed 57.75 points
+Thor has 744.79 HP remaining
+Thor Attacked Masked Hero with power 52.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 575.98 HP remaining
+Masked Hero Attacked Thor with power 100.88
+Thor's Defence absorbed 66 points
+Thor has 709.91 HP remaining
+Thor Attacked Masked Hero with power 68.8
+Masked Hero's Defence absorbed 10.37 points
+Masked Hero has 517.55 HP remaining
+Masked Hero Attacked Thor with power 84.24
+Thor's Defence absorbed 67.5 points
+Thor has 693.17 HP remaining
+Thor Attacked Masked Hero with power 52.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 464.75 HP remaining
+Masked Hero Attacked Thor with power 87.36
+Thor's Defence absorbed 27.75 points
+Thor has 633.56 HP remaining
+Thor Attacked Masked Hero with power 64.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 399.95 HP remaining
+Masked Hero Attacked Thor with power 82.16
+Thor's Defence absorbed 0 points
+Thor has 551.4 HP remaining
+Thor Attacked Masked Hero with power 43.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 356.75 HP remaining
+Masked Hero Attacked Thor with power 83.2
+Thor's Defence absorbed 0 points
+Thor has 468.2 HP remaining
+Thor Attacked Masked Hero with power 40
+Masked Hero's Defence absorbed 11.22 points
+Masked Hero has 327.97 HP remaining
+Masked Hero Attacked Thor with power 66.56
+Thor's Defence absorbed 57 points
+Thor has 458.64 HP remaining
+Thor Attacked Masked Hero with power 44.8
+Masked Hero Blocked the attack
+Masked Hero has 327.97 HP remaining
+Masked Hero Attacked Thor with power 57.2
+Thor's Defence absorbed 44.25 points
+Thor has 445.69 HP remaining
+Thor Attacked Masked Hero with power 44.8
+Masked Hero's Defence absorbed 13.6 points
+Masked Hero has 296.77 HP remaining
+Masked Hero Attacked Thor with power 57.2
+Thor's Defence absorbed 21 points
+Thor has 409.49 HP remaining
+Thor Attacked Masked Hero with power 43.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 253.57 HP remaining
+Masked Hero Attacked Thor with power 86.32
+Thor's Defence absorbed 0 points
+Thor has 323.17 HP remaining
+Thor Attacked Masked Hero with power 64.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 188.77 HP remaining
+Masked Hero Attacked Thor with power 56.16
+Thor's Defence absorbed 28.5 points
+Thor has 295.51 HP remaining
+Thor Attacked Masked Hero with power 66.4
+Masked Hero's Defence absorbed 11.9 points
+Masked Hero has 134.27 HP remaining
+Masked Hero Attacked Thor with power 99.84
+Thor's Defence absorbed 0 points
+Thor has 195.67 HP remaining
+Thor Attacked Masked Hero with power 60.8
+Masked Hero's Defence absorbed 14.79 points
+Masked Hero has 88.2601 HP remaining
+Masked Hero Attacked Thor with power 53.04
+Thor's Defence absorbed 49.5 points
+Thor has 192.13 HP remaining
+Thor Attacked Masked Hero with power 60.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 27.4601 HP remaining
+Masked Hero Attacked Thor with power 52
+Thor's Defence absorbed 48.75 points
+Thor has 188.88 HP remaining
+Thor Attacked Masked Hero with power 68.8
+Masked Hero's Defence absorbed 10.88 points
+Masked Hero has 0 HP remaining
+Battle Over.Thor is the winner
+
+Masked Hero attacks first
+Masked Hero Attacked Thor with power 78
+Thor's Defence absorbed 24.75 points
+Thor has 1146.75 HP remaining
+Thor Attacked Masked Hero with power 66.4
+Masked Hero Blocked the attack
+Masked Hero has 1241 HP remaining
+Masked Hero Attacked Thor with power 54.08
+Thor's Defence absorbed 33 points
+Thor has 1125.67 HP remaining
+Thor Attacked Masked Hero with power 61.6
+Masked Hero's Defence absorbed 14.45 points
+Masked Hero has 1193.85 HP remaining
+Masked Hero Attacked Thor with power 88.4
+Thor's Defence absorbed 72.75 points
+Thor has 1110.02 HP remaining
+Thor Attacked Masked Hero with power 50.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 1143.45 HP remaining
+Masked Hero Attacked Thor with power 66.56
+Thor's Defence absorbed 29.25 points
+Thor has 1072.71 HP remaining
+Thor Attacked Masked Hero with power 73.6
+Masked Hero's Defence absorbed 14.62 points
+Masked Hero has 1084.47 HP remaining
+Masked Hero Attacked Thor with power 71.76
+Thor's Defence absorbed 62.25 points
+Thor has 1063.2 HP remaining
+Thor Attacked Masked Hero with power 68.8
+Masked Hero Blocked the attack
+Masked Hero has 1084.47 HP remaining
+Masked Hero Attacked Thor with power 83.2
+Thor's Defence absorbed 56.25 points
+Thor has 1036.25 HP remaining
+Thor Attacked Masked Hero with power 65.6
+Masked Hero Blocked the attack
+Masked Hero has 1084.47 HP remaining
+Masked Hero Attacked Thor with power 58.24
+Thor's Defence absorbed 26.25 points
+Thor has 1004.26 HP remaining
+Thor Attacked Masked Hero with power 45.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 1038.87 HP remaining
+Masked Hero Attacked Thor with power 96.72
+Thor's Defence absorbed 51 points
+Thor has 958.54 HP remaining
+Thor Attacked Masked Hero with power 58.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 980.47 HP remaining
+Masked Hero Attacked Thor with power 80.08
+Thor's Defence absorbed 72 points
+Thor has 950.46 HP remaining
+Thor Attacked Masked Hero with power 47.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 933.27 HP remaining
+Masked Hero Attacked Thor with power 65.52
+Thor's Defence absorbed 53.25 points
+Thor has 938.19 HP remaining
+Thor Attacked Masked Hero with power 45.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 887.67 HP remaining
+Masked Hero Attacked Thor with power 74.88
+Thor's Defence absorbed 0 points
+Thor has 863.31 HP remaining
+Thor Attacked Masked Hero with power 49.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 838.07 HP remaining
+Masked Hero Attacked Thor with power 102.96
+Thor's Defence absorbed 62.25 points
+Thor has 822.6 HP remaining
+Thor Attacked Masked Hero with power 56.8
+Masked Hero's Defence absorbed 11.22 points
+Masked Hero has 792.49 HP remaining
+Masked Hero Attacked Thor with power 97.76
+Thor's Defence absorbed 39.75 points
+Thor has 764.59 HP remaining
+Thor Attacked Masked Hero with power 61.6
+Masked Hero's Defence absorbed 12.24 points
+Masked Hero has 743.13 HP remaining
+Masked Hero Attacked Thor with power 69.68
+Thor's Defence absorbed 42 points
+Thor has 736.91 HP remaining
+Thor Attacked Masked Hero with power 60.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 682.33 HP remaining
+Masked Hero Attacked Thor with power 97.76
+Thor's Defence absorbed 39 points
+Thor has 678.15 HP remaining
+Thor Attacked Masked Hero with power 45.6
+Masked Hero's Defence absorbed 10.2 points
+Masked Hero has 646.93 HP remaining
+Masked Hero Attacked Thor with power 100.88
+Thor's Defence absorbed 54 points
+Thor has 631.27 HP remaining
+Thor Attacked Masked Hero with power 72
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 574.93 HP remaining
+Masked Hero Attacked Thor with power 86.32
+Thor's Defence absorbed 14.25 points
+Thor has 559.2 HP remaining
+Thor Attacked Masked Hero with power 67.2
+Masked Hero's Defence absorbed 14.28 points
+Masked Hero has 522.01 HP remaining
+Masked Hero Attacked Thor with power 87.36
+Thor's Defence absorbed 66.75 points
+Thor has 538.59 HP remaining
+Thor Attacked Masked Hero with power 64
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 458.01 HP remaining
+Masked Hero Attacked Thor with power 88.4
+Thor's Defence absorbed 53.25 points
+Thor has 503.44 HP remaining
+Thor Attacked Masked Hero with power 70.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 387.61 HP remaining
+Masked Hero Attacked Thor with power 60.32
+Thor's Defence absorbed 18 points
+Thor has 461.12 HP remaining
+Thor Attacked Masked Hero with power 54.4
+Masked Hero's Defence absorbed 14.96 points
+Masked Hero has 348.17 HP remaining
+Masked Hero Attacked Thor with power 73.84
+Thor's Defence absorbed 44.25 points
+Thor has 431.53 HP remaining
+Thor Attacked Masked Hero with power 56.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 291.37 HP remaining
+Masked Hero Attacked Thor with power 85.28
+Thor's Defence absorbed 58.5 points
+Thor has 404.75 HP remaining
+Thor Attacked Masked Hero with power 60.8
+Masked Hero's Defence absorbed 13.26 points
+Masked Hero has 243.83 HP remaining
+Masked Hero Attacked Thor with power 62.4
+Thor's Defence absorbed 16.5 points
+Thor has 358.85 HP remaining
+Thor Attacked Masked Hero with power 64
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 179.83 HP remaining
+Masked Hero Attacked Thor with power 94.64
+Thor's Defence absorbed 15 points
+Thor has 279.21 HP remaining
+Thor Attacked Masked Hero with power 52.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 127.03 HP remaining
+Masked Hero Attacked Thor with power 91.52
+Thor's Defence absorbed 24 points
+Thor has 211.69 HP remaining
+Thor Attacked Masked Hero with power 40.8
+Masked Hero's Defence absorbed 14.96 points
+Masked Hero has 101.19 HP remaining
+Masked Hero Attacked Thor with power 64.48
+Thor's Defence absorbed 0 points
+Thor has 147.21 HP remaining
+Thor Attacked Masked Hero with power 46.4
+Masked Hero's Defence absorbed 13.26 points
+Masked Hero has 68.05 HP remaining
+Masked Hero Attacked Thor with power 54.08
+Thor's Defence absorbed 11.25 points
+Thor has 104.38 HP remaining
+Thor Attacked Masked Hero with power 66.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 1.65002 HP remaining
+Masked Hero Attacked Thor with power 59.28
+Thor's Defence absorbed 28.5 points
+Thor has 73.6 HP remaining
+Thor Attacked Masked Hero with power 57.6
+Masked Hero's Defence absorbed 11.39 points
+Masked Hero has 0 HP remaining
+Battle Over.Thor is the winner
+
+Thor attacks first
+Thor Attacked Masked Hero with power 42.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 1198.6 HP remaining
+Masked Hero Attacked Thor with power 90.48
+Thor's Defence absorbed 64.5 points
+Thor has 1174.02 HP remaining
+Thor Attacked Masked Hero with power 52
+Masked Hero Blocked the attack
+Masked Hero has 1198.6 HP remaining
+Masked Hero Attacked Thor with power 66.56
+Thor's Defence absorbed 31.5 points
+Thor has 1138.96 HP remaining
+Thor Attacked Masked Hero with power 72.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 1125.8 HP remaining
+Masked Hero Attacked Thor with power 98.8
+Thor's Defence absorbed 42 points
+Thor has 1082.16 HP remaining
+Thor Attacked Masked Hero with power 53.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 1072.2 HP remaining
+Masked Hero Attacked Thor with power 72.8
+Thor's Defence absorbed 0 points
+Thor has 1009.36 HP remaining
+Thor Attacked Masked Hero with power 60.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 1011.4 HP remaining
+Masked Hero Attacked Thor with power 76.96
+Thor's Defence absorbed 41.25 points
+Thor has 973.65 HP remaining
+Thor Attacked Masked Hero with power 69.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 941.8 HP remaining
+Masked Hero Attacked Thor with power 79.04
+Thor's Defence absorbed 21.75 points
+Thor has 916.36 HP remaining
+Thor Attacked Masked Hero with power 51.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 890.6 HP remaining
+Masked Hero Attacked Thor with power 68.64
+Thor's Defence absorbed 46.5 points
+Thor has 894.22 HP remaining
+Thor Attacked Masked Hero with power 49.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 841 HP remaining
+Masked Hero Attacked Thor with power 100.88
+Thor's Defence absorbed 12 points
+Thor has 805.34 HP remaining
+Thor Attacked Masked Hero with power 79.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 761.8 HP remaining
+Masked Hero Attacked Thor with power 89.44
+Thor's Defence absorbed 19.5 points
+Thor has 735.4 HP remaining
+Thor Attacked Masked Hero with power 71.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 690.6 HP remaining
+Masked Hero Attacked Thor with power 73.84
+Thor's Defence absorbed 61.5 points
+Thor has 723.06 HP remaining
+Thor Attacked Masked Hero with power 67.2
+Masked Hero's Defence absorbed 10.88 points
+Masked Hero has 634.28 HP remaining
+Masked Hero Attacked Thor with power 88.4
+Thor's Defence absorbed 63.75 points
+Thor has 698.41 HP remaining
+Thor Attacked Masked Hero with power 60
+Masked Hero's Defence absorbed 14.45 points
+Masked Hero has 588.73 HP remaining
+Masked Hero Attacked Thor with power 59.28
+Thor Blocked the attack
+Thor has 698.41 HP remaining
+Thor Attacked Masked Hero with power 55.2
+Masked Hero Blocked the attack
+Masked Hero has 588.73 HP remaining
+Masked Hero Attacked Thor with power 100.88
+Thor's Defence absorbed 21.75 points
+Thor has 619.28 HP remaining
+Thor Attacked Masked Hero with power 68
+Masked Hero's Defence absorbed 12.92 points
+Masked Hero has 533.65 HP remaining
+Masked Hero Attacked Thor with power 58.24
+Thor's Defence absorbed 12.75 points
+Thor has 573.79 HP remaining
+Thor Attacked Masked Hero with power 72.8
+Masked Hero's Defence absorbed 11.39 points
+Masked Hero has 472.24 HP remaining
+Masked Hero Attacked Thor with power 87.36
+Thor Blocked the attack
+Thor has 573.79 HP remaining
+Thor Attacked Masked Hero with power 48.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 423.44 HP remaining
+Masked Hero Attacked Thor with power 61.36
+Thor's Defence absorbed 40.5 points
+Thor has 552.93 HP remaining
+Thor Attacked Masked Hero with power 42.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 381.04 HP remaining
+Masked Hero Attacked Thor with power 82.16
+Thor's Defence absorbed 24.75 points
+Thor has 495.52 HP remaining
+Thor Attacked Masked Hero with power 49.6
+Masked Hero Blocked the attack
+Masked Hero has 381.04 HP remaining
+Masked Hero Attacked Thor with power 90.48
+Thor's Defence absorbed 38.25 points
+Thor has 443.29 HP remaining
+Thor Attacked Masked Hero with power 64
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 317.04 HP remaining
+Masked Hero Attacked Thor with power 64.48
+Thor's Defence absorbed 18.75 points
+Thor has 397.56 HP remaining
+Thor Attacked Masked Hero with power 53.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 263.44 HP remaining
+Masked Hero Attacked Thor with power 70.72
+Thor's Defence absorbed 51 points
+Thor has 377.84 HP remaining
+Thor Attacked Masked Hero with power 53.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 209.84 HP remaining
+Masked Hero Attacked Thor with power 72.8
+Thor's Defence absorbed 11.25 points
+Thor has 316.29 HP remaining
+Thor Attacked Masked Hero with power 61.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 148.24 HP remaining
+Masked Hero Attacked Thor with power 84.24
+Thor's Defence absorbed 24.75 points
+Thor has 256.8 HP remaining
+Thor Attacked Masked Hero with power 73.6
+Masked Hero's Defence absorbed 10.2 points
+Masked Hero has 84.8399 HP remaining
+Masked Hero Attacked Thor with power 52
+Thor's Defence absorbed 24 points
+Thor has 228.8 HP remaining
+Thor Attacked Masked Hero with power 69.6
+Masked Hero's Defence absorbed 13.09 points
+Masked Hero has 28.3299 HP remaining
+Masked Hero Attacked Thor with power 100.88
+Thor's Defence absorbed 32.25 points
+Thor has 160.17 HP remaining
+Thor Attacked Masked Hero with power 71.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 0 HP remaining
+Battle Over.Thor is the winner
+
+Masked Hero attacks first
+Masked Hero Attacked Thor with power 81.12
+Thor's Defence absorbed 52.5 points
+Thor has 1171.38 HP remaining
+Thor Attacked Masked Hero with power 69.6
+Masked Hero Blocked the attack
+Masked Hero has 1241 HP remaining
+Masked Hero Attacked Thor with power 73.84
+Thor's Defence absorbed 54 points
+Thor has 1151.54 HP remaining
+Thor Attacked Masked Hero with power 43.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 1197.8 HP remaining
+Masked Hero Attacked Thor with power 68.64
+Thor's Defence absorbed 54 points
+Thor has 1136.9 HP remaining
+Thor Attacked Masked Hero with power 56.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 1141 HP remaining
+Masked Hero Attacked Thor with power 69.68
+Thor's Defence absorbed 21 points
+Thor has 1088.22 HP remaining
+Thor Attacked Masked Hero with power 69.6
+Masked Hero Blocked the attack
+Masked Hero has 1141 HP remaining
+Masked Hero Attacked Thor with power 75.92
+Thor's Defence absorbed 53.25 points
+Thor has 1065.55 HP remaining
+Thor Attacked Masked Hero with power 55.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 1085.8 HP remaining
+Masked Hero Attacked Thor with power 76.96
+Thor's Defence absorbed 0 points
+Thor has 988.59 HP remaining
+Thor Attacked Masked Hero with power 53.6
+Masked Hero's Defence absorbed 12.92 points
+Masked Hero has 1045.12 HP remaining
+Masked Hero Attacked Thor with power 84.24
+Thor Blocked the attack
+Thor has 988.59 HP remaining
+Thor Attacked Masked Hero with power 66.4
+Masked Hero Blocked the attack
+Masked Hero has 1045.12 HP remaining
+Masked Hero Attacked Thor with power 68.64
+Thor's Defence absorbed 17.25 points
+Thor has 937.2 HP remaining
+Thor Attacked Masked Hero with power 72
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 973.12 HP remaining
+Masked Hero Attacked Thor with power 73.84
+Thor's Defence absorbed 35.25 points
+Thor has 898.61 HP remaining
+Thor Attacked Masked Hero with power 70.4
+Masked Hero's Defence absorbed 11.56 points
+Masked Hero has 914.28 HP remaining
+Masked Hero Attacked Thor with power 81.12
+Thor's Defence absorbed 47.25 points
+Thor has 864.74 HP remaining
+Thor Attacked Masked Hero with power 48.8
+Masked Hero Blocked the attack
+Masked Hero has 914.28 HP remaining
+Masked Hero Attacked Thor with power 82.16
+Thor's Defence absorbed 30 points
+Thor has 812.58 HP remaining
+Thor Attacked Masked Hero with power 69.6
+Masked Hero's Defence absorbed 14.45 points
+Masked Hero has 859.13 HP remaining
+Masked Hero Attacked Thor with power 83.2
+Thor's Defence absorbed 32.25 points
+Thor has 761.63 HP remaining
+Thor Attacked Masked Hero with power 48
+Masked Hero's Defence absorbed 13.6 points
+Masked Hero has 824.73 HP remaining
+Masked Hero Attacked Thor with power 98.8
+Thor's Defence absorbed 48.75 points
+Thor has 711.58 HP remaining
+Thor Attacked Masked Hero with power 60
+Masked Hero's Defence absorbed 11.56 points
+Masked Hero has 776.29 HP remaining
+Masked Hero Attacked Thor with power 58.24
+Thor's Defence absorbed 33 points
+Thor has 686.34 HP remaining
+Thor Attacked Masked Hero with power 76.8
+Masked Hero's Defence absorbed 14.11 points
+Masked Hero has 713.6 HP remaining
+Masked Hero Attacked Thor with power 56.16
+Thor's Defence absorbed 21.75 points
+Thor has 651.93 HP remaining
+Thor Attacked Masked Hero with power 59.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 654.4 HP remaining
+Masked Hero Attacked Thor with power 95.68
+Thor's Defence absorbed 58.5 points
+Thor has 614.75 HP remaining
+Thor Attacked Masked Hero with power 54.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 600 HP remaining
+Masked Hero Attacked Thor with power 59.28
+Thor's Defence absorbed 24 points
+Thor has 579.47 HP remaining
+Thor Attacked Masked Hero with power 47.2
+Masked Hero's Defence absorbed 11.73 points
+Masked Hero has 564.53 HP remaining
+Masked Hero Attacked Thor with power 87.36
+Thor's Defence absorbed 55.5 points
+Thor has 547.61 HP remaining
+Thor Attacked Masked Hero with power 68
+Masked Hero Blocked the attack
+Masked Hero has 564.53 HP remaining
+Masked Hero Attacked Thor with power 71.76
+Thor's Defence absorbed 21 points
+Thor has 496.85 HP remaining
+Thor Attacked Masked Hero with power 75.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 489.33 HP remaining
+Masked Hero Attacked Thor with power 72.8
+Thor's Defence absorbed 24.75 points
+Thor has 448.8 HP remaining
+Thor Attacked Masked Hero with power 64.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 424.53 HP remaining
+Masked Hero Attacked Thor with power 86.32
+Thor's Defence absorbed 24.75 points
+Thor has 387.23 HP remaining
+Thor Attacked Masked Hero with power 55.2
+Masked Hero's Defence absorbed 10.2 points
+Masked Hero has 379.53 HP remaining
+Masked Hero Attacked Thor with power 80.08
+Thor's Defence absorbed 48.75 points
+Thor has 355.9 HP remaining
+Thor Attacked Masked Hero with power 75.2
+Masked Hero Blocked the attack
+Masked Hero has 379.53 HP remaining
+Masked Hero Attacked Thor with power 100.88
+Thor's Defence absorbed 66 points
+Thor has 321.02 HP remaining
+Thor Attacked Masked Hero with power 52
+Masked Hero's Defence absorbed 12.41 points
+Masked Hero has 339.94 HP remaining
+Masked Hero Attacked Thor with power 84.24
+Thor's Defence absorbed 25.5 points
+Thor has 262.28 HP remaining
+Thor Attacked Masked Hero with power 69.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 270.34 HP remaining
+Masked Hero Attacked Thor with power 79.04
+Thor's Defence absorbed 11.25 points
+Thor has 194.49 HP remaining
+Thor Attacked Masked Hero with power 48
+Masked Hero's Defence absorbed 10.71 points
+Masked Hero has 233.05 HP remaining
+Masked Hero Attacked Thor with power 95.68
+Thor's Defence absorbed 33 points
+Thor has 131.81 HP remaining
+Thor Attacked Masked Hero with power 77.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 155.45 HP remaining
+Masked Hero Attacked Thor with power 79.04
+Thor's Defence absorbed 16.5 points
+Thor has 69.2698 HP remaining
+Thor Attacked Masked Hero with power 70.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 85.0499 HP remaining
+Masked Hero Attacked Thor with power 92.56
+Thor's Defence absorbed 57 points
+Thor has 33.7098 HP remaining
+Thor Attacked Masked Hero with power 61.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 23.4499 HP remaining
+Masked Hero Attacked Thor with power 63.44
+Thor's Defence absorbed 0 points
+Thor has 0 HP remaining
+Battle Over.Masked Hero is the winner
+
+Thor attacks first
+Thor Attacked Masked Hero with power 67.2
+Masked Hero's Defence absorbed 12.92 points
+Masked Hero has 1186.72 HP remaining
+Masked Hero Attacked Thor with power 84.24
+Thor's Defence absorbed 51 points
+Thor has 1166.76 HP remaining
+Thor Attacked Masked Hero with power 69.6
+Masked Hero's Defence absorbed 13.77 points
+Masked Hero has 1130.89 HP remaining
+Masked Hero Attacked Thor with power 70.72
+Thor's Defence absorbed 0 points
+Thor has 1096.04 HP remaining
+Thor Attacked Masked Hero with power 75.2
+Masked Hero's Defence absorbed 14.11 points
+Masked Hero has 1069.8 HP remaining
+Masked Hero Attacked Thor with power 94.64
+Thor's Defence absorbed 54 points
+Thor has 1055.4 HP remaining
+Thor Attacked Masked Hero with power 49.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 1020.2 HP remaining
+Masked Hero Attacked Thor with power 94.64
+Thor's Defence absorbed 60 points
+Thor has 1020.76 HP remaining
+Thor Attacked Masked Hero with power 50.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 969.8 HP remaining
+Masked Hero Attacked Thor with power 72.8
+Thor's Defence absorbed 35.25 points
+Thor has 983.21 HP remaining
+Thor Attacked Masked Hero with power 74.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 895.4 HP remaining
+Masked Hero Attacked Thor with power 73.84
+Thor's Defence absorbed 60 points
+Thor has 969.37 HP remaining
+Thor Attacked Masked Hero with power 71.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 824.2 HP remaining
+Masked Hero Attacked Thor with power 59.28
+Thor's Defence absorbed 58.5 points
+Thor has 968.59 HP remaining
+Thor Attacked Masked Hero with power 70.4
+Masked Hero's Defence absorbed 13.6 points
+Masked Hero has 767.4 HP remaining
+Masked Hero Attacked Thor with power 72.8
+Thor's Defence absorbed 60 points
+Thor has 955.79 HP remaining
+Thor Attacked Masked Hero with power 76
+Masked Hero Blocked the attack
+Masked Hero has 767.4 HP remaining
+Masked Hero Attacked Thor with power 68.64
+Thor's Defence absorbed 0 points
+Thor has 887.15 HP remaining
+Thor Attacked Masked Hero with power 78.4
+Masked Hero Blocked the attack
+Masked Hero has 767.4 HP remaining
+Masked Hero Attacked Thor with power 62.4
+Thor Blocked the attack
+Thor has 887.15 HP remaining
+Thor Attacked Masked Hero with power 45.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 721.8 HP remaining
+Masked Hero Attacked Thor with power 88.4
+Thor's Defence absorbed 32.25 points
+Thor has 831 HP remaining
+Thor Attacked Masked Hero with power 52.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 669 HP remaining
+Masked Hero Attacked Thor with power 85.28
+Thor Blocked the attack
+Thor has 831 HP remaining
+Thor Attacked Masked Hero with power 72.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 596.2 HP remaining
+Masked Hero Attacked Thor with power 78
+Thor's Defence absorbed 0 points
+Thor has 753 HP remaining
+Thor Attacked Masked Hero with power 47.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 549 HP remaining
+Masked Hero Attacked Thor with power 99.84
+Thor's Defence absorbed 25.5 points
+Thor has 678.66 HP remaining
+Thor Attacked Masked Hero with power 51.2
+Masked Hero Blocked the attack
+Masked Hero has 549 HP remaining
+Masked Hero Attacked Thor with power 100.88
+Thor's Defence absorbed 51 points
+Thor has 628.78 HP remaining
+Thor Attacked Masked Hero with power 56.8
+Masked Hero's Defence absorbed 11.22 points
+Masked Hero has 503.42 HP remaining
+Masked Hero Attacked Thor with power 69.68
+Thor Blocked the attack
+Thor has 628.78 HP remaining
+Thor Attacked Masked Hero with power 50.4
+Masked Hero Blocked the attack
+Masked Hero has 503.42 HP remaining
+Masked Hero Attacked Thor with power 97.76
+Thor's Defence absorbed 27 points
+Thor has 558.02 HP remaining
+Thor Attacked Masked Hero with power 50.4
+Masked Hero's Defence absorbed 11.9 points
+Masked Hero has 464.92 HP remaining
+Masked Hero Attacked Thor with power 78
+Thor's Defence absorbed 63.75 points
+Thor has 543.77 HP remaining
+Thor Attacked Masked Hero with power 52.8
+Masked Hero's Defence absorbed 14.96 points
+Masked Hero has 427.08 HP remaining
+Masked Hero Attacked Thor with power 87.36
+Thor's Defence absorbed 25.5 points
+Thor has 481.91 HP remaining
+Thor Attacked Masked Hero with power 64
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 363.08 HP remaining
+Masked Hero Attacked Thor with power 90.48
+Thor's Defence absorbed 48.75 points
+Thor has 440.18 HP remaining
+Thor Attacked Masked Hero with power 56.8
+Masked Hero's Defence absorbed 10.88 points
+Masked Hero has 317.16 HP remaining
+Masked Hero Attacked Thor with power 89.44
+Thor's Defence absorbed 71.25 points
+Thor has 421.99 HP remaining
+Thor Attacked Masked Hero with power 64.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 252.36 HP remaining
+Masked Hero Attacked Thor with power 100.88
+Thor Blocked the attack
+Thor has 421.99 HP remaining
+Thor Attacked Masked Hero with power 60
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 192.36 HP remaining
+Masked Hero Attacked Thor with power 61.36
+Thor Blocked the attack
+Thor has 421.99 HP remaining
+Thor Attacked Masked Hero with power 59.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 133.16 HP remaining
+Masked Hero Attacked Thor with power 56.16
+Thor's Defence absorbed 27.75 points
+Thor has 393.58 HP remaining
+Thor Attacked Masked Hero with power 64
+Masked Hero's Defence absorbed 14.79 points
+Masked Hero has 83.9501 HP remaining
+Masked Hero Attacked Thor with power 66.56
+Thor's Defence absorbed 60 points
+Thor has 387.02 HP remaining
+Thor Attacked Masked Hero with power 66.4
+Masked Hero's Defence absorbed 14.62 points
+Masked Hero has 32.1701 HP remaining
+Masked Hero Attacked Thor with power 94.64
+Thor's Defence absorbed 48 points
+Thor has 340.38 HP remaining
+Thor Attacked Masked Hero with power 76
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 0 HP remaining
+Battle Over.Thor is the winner
+
+Thor attacks first
+Thor Attacked Masked Hero with power 48.8
+Masked Hero Blocked the attack
+Masked Hero has 1241 HP remaining
+Masked Hero Attacked Thor with power 88.4
+Thor's Defence absorbed 45.75 points
+Thor has 1157.35 HP remaining
+Thor Attacked Masked Hero with power 53.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 1187.4 HP remaining
+Masked Hero Attacked Thor with power 56.16
+Thor's Defence absorbed 43.5 points
+Thor has 1144.69 HP remaining
+Thor Attacked Masked Hero with power 54.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 1133 HP remaining
+Masked Hero Attacked Thor with power 75.92
+Thor's Defence absorbed 32.25 points
+Thor has 1101.02 HP remaining
+Thor Attacked Masked Hero with power 52
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 1081 HP remaining
+Masked Hero Attacked Thor with power 72.8
+Thor's Defence absorbed 0 points
+Thor has 1028.22 HP remaining
+Thor Attacked Masked Hero with power 42.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 1038.6 HP remaining
+Masked Hero Attacked Thor with power 60.32
+Thor's Defence absorbed 0 points
+Thor has 967.9 HP remaining
+Thor Attacked Masked Hero with power 54.4
+Masked Hero's Defence absorbed 10.54 points
+Masked Hero has 994.74 HP remaining
+Masked Hero Attacked Thor with power 100.88
+Thor's Defence absorbed 0 points
+Thor has 867.02 HP remaining
+Thor Attacked Masked Hero with power 77.6
+Masked Hero's Defence absorbed 10.71 points
+Masked Hero has 927.85 HP remaining
+Masked Hero Attacked Thor with power 69.68
+Thor's Defence absorbed 12 points
+Thor has 809.34 HP remaining
+Thor Attacked Masked Hero with power 45.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 882.25 HP remaining
+Masked Hero Attacked Thor with power 97.76
+Thor's Defence absorbed 11.25 points
+Thor has 722.83 HP remaining
+Thor Attacked Masked Hero with power 52.8
+Masked Hero's Defence absorbed 11.05 points
+Masked Hero has 840.5 HP remaining
+Masked Hero Attacked Thor with power 96.72
+Thor's Defence absorbed 0 points
+Thor has 626.11 HP remaining
+Thor Attacked Masked Hero with power 58.4
+Masked Hero Blocked the attack
+Masked Hero has 840.5 HP remaining
+Masked Hero Attacked Thor with power 94.64
+Thor's Defence absorbed 21 points
+Thor has 552.47 HP remaining
+Thor Attacked Masked Hero with power 55.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 785.3 HP remaining
+Masked Hero Attacked Thor with power 60.32
+Thor's Defence absorbed 54.75 points
+Thor has 546.9 HP remaining
+Thor Attacked Masked Hero with power 72.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 712.5 HP remaining
+Masked Hero Attacked Thor with power 70.72
+Thor's Defence absorbed 14.25 points
+Thor has 490.43 HP remaining
+Thor Attacked Masked Hero with power 52
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 660.5 HP remaining
+Masked Hero Attacked Thor with power 99.84
+Thor's Defence absorbed 0 points
+Thor has 390.59 HP remaining
+Thor Attacked Masked Hero with power 62.4
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 598.1 HP remaining
+Masked Hero Attacked Thor with power 79.04
+Thor's Defence absorbed 51.75 points
+Thor has 363.3 HP remaining
+Thor Attacked Masked Hero with power 48.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 549.3 HP remaining
+Masked Hero Attacked Thor with power 58.24
+Thor's Defence absorbed 0 points
+Thor has 305.06 HP remaining
+Thor Attacked Masked Hero with power 68
+Masked Hero Blocked the attack
+Masked Hero has 549.3 HP remaining
+Masked Hero Attacked Thor with power 89.44
+Thor's Defence absorbed 21.75 points
+Thor has 237.37 HP remaining
+Thor Attacked Masked Hero with power 67.2
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 482.1 HP remaining
+Masked Hero Attacked Thor with power 91.52
+Thor's Defence absorbed 64.5 points
+Thor has 210.35 HP remaining
+Thor Attacked Masked Hero with power 72.8
+Masked Hero's Defence absorbed 13.09 points
+Masked Hero has 422.39 HP remaining
+Masked Hero Attacked Thor with power 85.28
+Thor's Defence absorbed 21.75 points
+Thor has 146.82 HP remaining
+Thor Attacked Masked Hero with power 48.8
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 373.59 HP remaining
+Masked Hero Attacked Thor with power 79.04
+Thor's Defence absorbed 0 points
+Thor has 67.7799 HP remaining
+Thor Attacked Masked Hero with power 45.6
+Masked Hero's Defence absorbed 0 points
+Masked Hero has 327.99 HP remaining
+Masked Hero Attacked Thor with power 90.48
+Thor's Defence absorbed 0 points
+Thor has 0 HP remaining
+Battle Over.Masked Hero is the winner
+
+Thor attacks first
+Thor Attacked Hulk with power 47.2
+Hulk's Defence absorbed 19.5 points
+Hulk has 1172.3 HP remaining
+Hulk Attacked Thor with power 51.2
+Thor's Defence absorbed 33 points
+Thor has 1181.8 HP remaining
+Thor Attacked Hulk with power 68.8
+Hulk Blocked the attack
+Hulk has 1172.3 HP remaining
+Hulk Attacked Thor with power 62.4
+Thor's Defence absorbed 0 points
+Thor has 1119.4 HP remaining
+Thor Attacked Hulk with power 64.8
+Hulk Blocked the attack
+Hulk has 1172.3 HP remaining
+Hulk Attacked Thor with power 72
+Thor's Defence absorbed 50.25 points
+Thor has 1097.65 HP remaining
+Thor Attacked Hulk with power 47.2
+Hulk Blocked the attack
+Hulk has 1172.3 HP remaining
+Hulk Attacked Thor with power 59.2
+Thor's Defence absorbed 48.75 points
+Thor has 1087.2 HP remaining
+Thor Attacked Hulk with power 46.4
+Hulk Blocked the attack
+Hulk has 1172.3 HP remaining
+Hulk Attacked Thor with power 72
+Thor's Defence absorbed 12.75 points
+Thor has 1027.95 HP remaining
+Thor Attacked Hulk with power 40.8
+Hulk Blocked the attack
+Hulk has 1172.3 HP remaining
+Hulk Attacked Thor with power 41.6
+Thor Blocked the attack
+Thor has 1027.95 HP remaining
+Thor Attacked Hulk with power 77.6
+Hulk's Defence absorbed 60.75 points
+Hulk has 1155.45 HP remaining
+Hulk Attacked Thor with power 68
+Thor's Defence absorbed 24 points
+Thor has 983.95 HP remaining
+Thor Attacked Hulk with power 44
+Hulk's Defence absorbed 12 points
+Hulk has 1123.45 HP remaining
+Hulk Attacked Thor with power 60.8
+Thor's Defence absorbed 0 points
+Thor has 923.15 HP remaining
+Thor Attacked Hulk with power 55.2
+Hulk's Defence absorbed 15.75 points
+Hulk has 1084 HP remaining
+Hulk Attacked Thor with power 75.2
+Thor's Defence absorbed 52.5 points
+Thor has 900.45 HP remaining
+Thor Attacked Hulk with power 68
+Hulk's Defence absorbed 64.5 points
+Hulk has 1080.5 HP remaining
+Hulk Attacked Thor with power 74.4
+Thor's Defence absorbed 0 points
+Thor has 826.05 HP remaining
+Thor Attacked Hulk with power 61.6
+Hulk Blocked the attack
+Hulk has 1080.5 HP remaining
+Hulk Attacked Thor with power 79.2
+Thor's Defence absorbed 11.25 points
+Thor has 758.1 HP remaining
+Thor Attacked Hulk with power 48.8
+Hulk's Defence absorbed 0 points
+Hulk has 1031.7 HP remaining
+Hulk Attacked Thor with power 40.8
+Thor Blocked the attack
+Thor has 758.1 HP remaining
+Thor Attacked Hulk with power 76.8
+Hulk's Defence absorbed 71.25 points
+Hulk has 1026.15 HP remaining
+Hulk Attacked Thor with power 55.2
+Thor's Defence absorbed 50.25 points
+Thor has 753.15 HP remaining
+Thor Attacked Hulk with power 66.4
+Hulk's Defence absorbed 24 points
+Hulk has 983.75 HP remaining
+Hulk Attacked Thor with power 60
+Thor's Defence absorbed 51.75 points
+Thor has 744.9 HP remaining
+Thor Attacked Hulk with power 48
+Hulk Blocked the attack
+Hulk has 983.75 HP remaining
+Hulk Attacked Thor with power 74.4
+Thor's Defence absorbed 41.25 points
+Thor has 711.75 HP remaining
+Thor Attacked Hulk with power 42.4
+Hulk Blocked the attack
+Hulk has 983.75 HP remaining
+Hulk Attacked Thor with power 76.8
+Thor's Defence absorbed 54 points
+Thor has 688.95 HP remaining
+Thor Attacked Hulk with power 63.2
+Hulk's Defence absorbed 0 points
+Hulk has 920.55 HP remaining
+Hulk Attacked Thor with power 40.8
+Thor Blocked the attack
+Thor has 688.95 HP remaining
+Thor Attacked Hulk with power 62.4
+Hulk Blocked the attack
+Hulk has 920.55 HP remaining
+Hulk Attacked Thor with power 71.2
+Thor's Defence absorbed 0 points
+Thor has 617.75 HP remaining
+Thor Attacked Hulk with power 63.2
+Hulk's Defence absorbed 54.75 points
+Hulk has 912.1 HP remaining
+Hulk Attacked Thor with power 64
+Thor's Defence absorbed 0 points
+Thor has 553.75 HP remaining
+Thor Attacked Hulk with power 79.2
+Hulk's Defence absorbed 0 points
+Hulk has 832.9 HP remaining
+Hulk Attacked Thor with power 54.4
+Thor Blocked the attack
+Thor has 553.75 HP remaining
+Thor Attacked Hulk with power 44.8
+Hulk's Defence absorbed 18 points
+Hulk has 806.1 HP remaining
+Hulk Attacked Thor with power 75.2
+Thor's Defence absorbed 54.75 points
+Thor has 533.3 HP remaining
+Thor Attacked Hulk with power 56
+Hulk Blocked the attack
+Hulk has 806.1 HP remaining
+Hulk Attacked Thor with power 71.2
+Thor's Defence absorbed 23.25 points
+Thor has 485.35 HP remaining
+Thor Attacked Hulk with power 58.4
+Hulk's Defence absorbed 36 points
+Hulk has 783.7 HP remaining
+Hulk Attacked Thor with power 61.6
+Thor's Defence absorbed 20.25 points
+Thor has 444 HP remaining
+Thor Attacked Hulk with power 48
+Hulk's Defence absorbed 26.25 points
+Hulk has 761.95 HP remaining
+Hulk Attacked Thor with power 56.8
+Thor's Defence absorbed 53.25 points
+Thor has 440.45 HP remaining
+Thor Attacked Hulk with power 60
+Hulk's Defence absorbed 39.75 points
+Hulk has 741.7 HP remaining
+Hulk Attacked Thor with power 40.8
+Thor's Defence absorbed 18 points
+Thor has 417.65 HP remaining
+Thor Attacked Hulk with power 59.2
+Hulk Blocked the attack
+Hulk has 741.7 HP remaining
+Hulk Attacked Thor with power 57.6
+Thor Blocked the attack
+Thor has 417.65 HP remaining
+Thor Attacked Hulk with power 76
+Hulk's Defence absorbed 34.5 points
+Hulk has 700.2 HP remaining
+Hulk Attacked Thor with power 56.8
+Thor Blocked the attack
+Thor has 417.65 HP remaining
+Thor Attacked Hulk with power 52.8
+Hulk Blocked the attack
+Hulk has 700.2 HP remaining
+Hulk Attacked Thor with power 76.8
+Thor's Defence absorbed 0 points
+Thor has 340.85 HP remaining
+Thor Attacked Hulk with power 60
+Hulk's Defence absorbed 0 points
+Hulk has 640.2 HP remaining
+Hulk Attacked Thor with power 65.6
+Thor's Defence absorbed 33 points
+Thor has 308.25 HP remaining
+Thor Attacked Hulk with power 77.6
+Hulk's Defence absorbed 69.75 points
+Hulk has 632.35 HP remaining
+Hulk Attacked Thor with power 45.6
+Thor Blocked the attack
+Thor has 308.25 HP remaining
+Thor Attacked Hulk with power 63.2
+Hulk's Defence absorbed 41.25 points
+Hulk has 610.4 HP remaining
+Hulk Attacked Thor with power 55.2
+Thor's Defence absorbed 33.75 points
+Thor has 286.8 HP remaining
+Thor Attacked Hulk with power 63.2
+Hulk's Defence absorbed 0 points
+Hulk has 547.2 HP remaining
+Hulk Attacked Thor with power 64
+Thor's Defence absorbed 12.75 points
+Thor has 235.55 HP remaining
+Thor Attacked Hulk with power 50.4
+Hulk's Defence absorbed 35.25 points
+Hulk has 532.05 HP remaining
+Hulk Attacked Thor with power 73.6
+Thor's Defence absorbed 64.5 points
+Thor has 226.45 HP remaining
+Thor Attacked Hulk with power 57.6
+Hulk's Defence absorbed 42 points
+Hulk has 516.45 HP remaining
+Hulk Attacked Thor with power 77.6
+Thor's Defence absorbed 69 points
+Thor has 217.85 HP remaining
+Thor Attacked Hulk with power 56
+Hulk's Defence absorbed 30 points
+Hulk has 490.45 HP remaining
+Hulk Attacked Thor with power 45.6
+Thor Blocked the attack
+Thor has 217.85 HP remaining
+Thor Attacked Hulk with power 76
+Hulk's Defence absorbed 55.5 points
+Hulk has 469.95 HP remaining
+Hulk Attacked Thor with power 48.8
+Thor's Defence absorbed 27 points
+Thor has 196.05 HP remaining
+Thor Attacked Hulk with power 76.8
+Hulk's Defence absorbed 44.25 points
+Hulk has 437.4 HP remaining
+Hulk Attacked Thor with power 65.6
+Thor's Defence absorbed 40.5 points
+Thor has 170.95 HP remaining
+Thor Attacked Hulk with power 74.4
+Hulk's Defence absorbed 11.25 points
+Hulk has 374.25 HP remaining
+Hulk Attacked Thor with power 46.4
+Thor Blocked the attack
+Thor has 170.95 HP remaining
+Thor Attacked Hulk with power 50.4
+Hulk's Defence absorbed 20.25 points
+Hulk has 344.1 HP remaining
+Hulk Attacked Thor with power 47.2
+Thor Blocked the attack
+Thor has 170.95 HP remaining
+Thor Attacked Hulk with power 60.8
+Hulk's Defence absorbed 25.5 points
+Hulk has 308.8 HP remaining
+Hulk Attacked Thor with power 55.2
+Thor Blocked the attack
+Thor has 170.95 HP remaining
+Thor Attacked Hulk with power 59.2
+Hulk Blocked the attack
+Hulk has 308.8 HP remaining
+Hulk Attacked Thor with power 43.2
+Thor's Defence absorbed 23.25 points
+Thor has 151 HP remaining
+Thor Attacked Hulk with power 74.4
+Hulk's Defence absorbed 68.25 points
+Hulk has 302.65 HP remaining
+Hulk Attacked Thor with power 53.6
+Thor's Defence absorbed 0 points
+Thor has 97.4 HP remaining
+Thor Attacked Hulk with power 73.6
+Hulk's Defence absorbed 57 points
+Hulk has 286.05 HP remaining
+Hulk Attacked Thor with power 56
+Thor's Defence absorbed 39.75 points
+Thor has 81.15 HP remaining
+Thor Attacked Hulk with power 61.6
+Hulk's Defence absorbed 0 points
+Hulk has 224.45 HP remaining
+Hulk Attacked Thor with power 64
+Thor's Defence absorbed 29.25 points
+Thor has 46.4 HP remaining
+Thor Attacked Hulk with power 43.2
+Hulk's Defence absorbed 13.5 points
+Hulk has 194.75 HP remaining
+Hulk Attacked Thor with power 43.2
+Thor Blocked the attack
+Thor has 46.4 HP remaining
+Thor Attacked Hulk with power 47.2
+Hulk's Defence absorbed 25.5 points
+Hulk has 173.05 HP remaining
+Hulk Attacked Thor with power 57.6
+Thor's Defence absorbed 42.75 points
+Thor has 31.55 HP remaining
+Thor Attacked Hulk with power 52.8
+Hulk's Defence absorbed 43.5 points
+Hulk has 163.75 HP remaining
+Hulk Attacked Thor with power 60
+Thor's Defence absorbed 16.5 points
+Thor has 0 HP remaining
+Battle Over.Hulk is the winner
+
+Thor attacks first
+Thor Attacked Hulk with power 52
+Hulk Blocked the attack
+Hulk has 1200 HP remaining
+Hulk Attacked Thor with power 47.2
+Thor's Defence absorbed 14.25 points
+Thor has 1167.05 HP remaining
+Thor Attacked Hulk with power 41.6
+Hulk's Defence absorbed 0 points
+Hulk has 1158.4 HP remaining
+Hulk Attacked Thor with power 73.6
+Thor's Defence absorbed 45 points
+Thor has 1138.45 HP remaining
+Thor Attacked Hulk with power 47.2
+Hulk's Defence absorbed 44.25 points
+Hulk has 1155.45 HP remaining
+Hulk Attacked Thor with power 48
+Thor's Defence absorbed 25.5 points
+Thor has 1115.95 HP remaining
+Thor Attacked Hulk with power 68.8
+Hulk's Defence absorbed 0 points
+Hulk has 1086.65 HP remaining
+Hulk Attacked Thor with power 48.8
+Thor's Defence absorbed 39.75 points
+Thor has 1106.9 HP remaining
+Thor Attacked Hulk with power 64
+Hulk's Defence absorbed 35.25 points
+Hulk has 1057.9 HP remaining
+Hulk Attacked Thor with power 48
+Thor's Defence absorbed 32.25 points
+Thor has 1091.15 HP remaining
+Thor Attacked Hulk with power 40.8
+Hulk's Defence absorbed 24 points
+Hulk has 1041.1 HP remaining
+Hulk Attacked Thor with power 45.6
+Thor Blocked the attack
+Thor has 1091.15 HP remaining
+Thor Attacked Hulk with power 44
+Hulk Blocked the attack
+Hulk has 1041.1 HP remaining
+Hulk Attacked Thor with power 62.4
+Thor's Defence absorbed 11.25 points
+Thor has 1040 HP remaining
+Thor Attacked Hulk with power 46.4
+Hulk's Defence absorbed 21.75 points
+Hulk has 1016.45 HP remaining
+Hulk Attacked Thor with power 44
+Thor Blocked the attack
+Thor has 1040 HP remaining
+Thor Attacked Hulk with power 73.6
+Hulk's Defence absorbed 47.25 points
+Hulk has 990.1 HP remaining
+Hulk Attacked Thor with power 57.6
+Thor's Defence absorbed 35.25 points
+Thor has 1017.65 HP remaining
+Thor Attacked Hulk with power 69.6
+Hulk's Defence absorbed 40.5 points
+Hulk has 961 HP remaining
+Hulk Attacked Thor with power 48
+Thor Blocked the attack
+Thor has 1017.65 HP remaining
+Thor Attacked Hulk with power 68.8
+Hulk's Defence absorbed 26.25 points
+Hulk has 918.45 HP remaining
+Hulk Attacked Thor with power 77.6
+Thor's Defence absorbed 55.5 points
+Thor has 995.55 HP remaining
+Thor Attacked Hulk with power 76.8
+Hulk's Defence absorbed 0 points
+Hulk has 841.65 HP remaining
+Hulk Attacked Thor with power 44
+Thor's Defence absorbed 0 points
+Thor has 951.55 HP remaining
+Thor Attacked Hulk with power 73.6
+Hulk's Defence absorbed 0 points
+Hulk has 768.05 HP remaining
+Hulk Attacked Thor with power 55.2
+Thor's Defence absorbed 32.25 points
+Thor has 928.6 HP remaining
+Thor Attacked Hulk with power 68.8
+Hulk's Defence absorbed 27 points
+Hulk has 726.25 HP remaining
+Hulk Attacked Thor with power 60.8
+Thor's Defence absorbed 15 points
+Thor has 882.8 HP remaining
+Thor Attacked Hulk with power 56
+Hulk's Defence absorbed 26.25 points
+Hulk has 696.5 HP remaining
+Hulk Attacked Thor with power 52.8
+Thor Blocked the attack
+Thor has 882.8 HP remaining
+Thor Attacked Hulk with power 65.6
+Hulk's Defence absorbed 51.75 points
+Hulk has 682.65 HP remaining
+Hulk Attacked Thor with power 76
+Thor's Defence absorbed 30.75 points
+Thor has 837.55 HP remaining
+Thor Attacked Hulk with power 68
+Hulk's Defence absorbed 46.5 points
+Hulk has 661.15 HP remaining
+Hulk Attacked Thor with power 68
+Thor's Defence absorbed 44.25 points
+Thor has 813.8 HP remaining
+Thor Attacked Hulk with power 45.6
+Hulk Blocked the attack
+Hulk has 661.15 HP remaining
+Hulk Attacked Thor with power 48.8
+Thor's Defence absorbed 0 points
+Thor has 765 HP remaining
+Thor Attacked Hulk with power 74.4
+Hulk's Defence absorbed 66.75 points
+Hulk has 653.5 HP remaining
+Hulk Attacked Thor with power 56
+Thor's Defence absorbed 0 points
+Thor has 709 HP remaining
+Thor Attacked Hulk with power 61.6
+Hulk's Defence absorbed 58.5 points
+Hulk has 650.4 HP remaining
+Hulk Attacked Thor with power 59.2
+Thor's Defence absorbed 0 points
+Thor has 649.8 HP remaining
+Thor Attacked Hulk with power 74.4
+Hulk's Defence absorbed 41.25 points
+Hulk has 617.25 HP remaining
+Hulk Attacked Thor with power 48.8
+Thor's Defence absorbed 0 points
+Thor has 601 HP remaining
+Thor Attacked Hulk with power 59.2
+Hulk's Defence absorbed 0 points
+Hulk has 558.05 HP remaining
+Hulk Attacked Thor with power 73.6
+Thor's Defence absorbed 65.25 points
+Thor has 592.65 HP remaining
+Thor Attacked Hulk with power 66.4
+Hulk's Defence absorbed 59.25 points
+Hulk has 550.9 HP remaining
+Hulk Attacked Thor with power 56
+Thor Blocked the attack
+Thor has 592.65 HP remaining
+Thor Attacked Hulk with power 42.4
+Hulk's Defence absorbed 36.75 points
+Hulk has 545.25 HP remaining
+Hulk Attacked Thor with power 70.4
+Thor's Defence absorbed 66.75 points
+Thor has 589 HP remaining
+Thor Attacked Hulk with power 64
+Hulk's Defence absorbed 18.75 points
+Hulk has 500 HP remaining
+Hulk Attacked Thor with power 69.6
+Thor's Defence absorbed 30.75 points
+Thor has 550.15 HP remaining
+Thor Attacked Hulk with power 52
+Hulk's Defence absorbed 24 points
+Hulk has 472 HP remaining
+Hulk Attacked Thor with power 52.8
+Thor's Defence absorbed 15 points
+Thor has 512.35 HP remaining
+Thor Attacked Hulk with power 76.8
+Hulk's Defence absorbed 51 points
+Hulk has 446.2 HP remaining
+Hulk Attacked Thor with power 73.6
+Thor's Defence absorbed 63.75 points
+Thor has 502.5 HP remaining
+Thor Attacked Hulk with power 59.2
+Hulk's Defence absorbed 19.5 points
+Hulk has 406.5 HP remaining
+Hulk Attacked Thor with power 58.4
+Thor Blocked the attack
+Thor has 502.5 HP remaining
+Thor Attacked Hulk with power 76
+Hulk's Defence absorbed 10.5 points
+Hulk has 341 HP remaining
+Hulk Attacked Thor with power 60.8
+Thor's Defence absorbed 30.75 points
+Thor has 472.45 HP remaining
+Thor Attacked Hulk with power 65.6
+Hulk's Defence absorbed 39 points
+Hulk has 314.4 HP remaining
+Hulk Attacked Thor with power 71.2
+Thor's Defence absorbed 26.25 points
+Thor has 427.5 HP remaining
+Thor Attacked Hulk with power 57.6
+Hulk's Defence absorbed 45.75 points
+Hulk has 302.55 HP remaining
+Hulk Attacked Thor with power 47.2
+Thor Blocked the attack
+Thor has 427.5 HP remaining
+Thor Attacked Hulk with power 56.8
+Hulk Blocked the attack
+Hulk has 302.55 HP remaining
+Hulk Attacked Thor with power 55.2
+Thor Blocked the attack
+Thor has 427.5 HP remaining
+Thor Attacked Hulk with power 62.4
+Hulk's Defence absorbed 42 points
+Hulk has 282.15 HP remaining
+Hulk Attacked Thor with power 50.4
+Thor Blocked the attack
+Thor has 427.5 HP remaining
+Thor Attacked Hulk with power 76.8
+Hulk's Defence absorbed 57.75 points
+Hulk has 263.1 HP remaining
+Hulk Attacked Thor with power 68.8
+Thor's Defence absorbed 63 points
+Thor has 421.7 HP remaining
+Thor Attacked Hulk with power 67.2
+Hulk Blocked the attack
+Hulk has 263.1 HP remaining
+Hulk Attacked Thor with power 43.2
+Thor's Defence absorbed 31.5 points
+Thor has 410 HP remaining
+Thor Attacked Hulk with power 60
+Hulk's Defence absorbed 38.25 points
+Hulk has 241.35 HP remaining
+Hulk Attacked Thor with power 40.8
+Thor's Defence absorbed 0 points
+Thor has 369.2 HP remaining
+Thor Attacked Hulk with power 75.2
+Hulk's Defence absorbed 24.75 points
+Hulk has 190.9 HP remaining
+Hulk Attacked Thor with power 60
+Thor Blocked the attack
+Thor has 369.2 HP remaining
+Thor Attacked Hulk with power 70.4
+Hulk's Defence absorbed 36.75 points
+Hulk has 157.25 HP remaining
+Hulk Attacked Thor with power 49.6
+Thor's Defence absorbed 44.25 points
+Thor has 363.85 HP remaining
+Thor Attacked Hulk with power 52.8
+Hulk's Defence absorbed 0 points
+Hulk has 104.45 HP remaining
+Hulk Attacked Thor with power 64
+Thor's Defence absorbed 13.5 points
+Thor has 313.35 HP remaining
+Thor Attacked Hulk with power 46.4
+Hulk Blocked the attack
+Hulk has 104.45 HP remaining
+Hulk Attacked Thor with power 41.6
+Thor Blocked the attack
+Thor has 313.35 HP remaining
+Thor Attacked Hulk with power 56
+Hulk's Defence absorbed 51 points
+Hulk has 99.45 HP remaining
+Hulk Attacked Thor with power 46.4
+Thor's Defence absorbed 20.25 points
+Thor has 287.2 HP remaining
+Thor Attacked Hulk with power 76
+Hulk Blocked the attack
+Hulk has 99.45 HP remaining
+Hulk Attacked Thor with power 52
+Thor's Defence absorbed 33 points
+Thor has 268.2 HP remaining
+Thor Attacked Hulk with power 77.6
+Hulk's Defence absorbed 0 points
+Hulk has 21.85 HP remaining
+Hulk Attacked Thor with power 73.6
+Thor's Defence absorbed 57 points
+Thor has 251.6 HP remaining
+Thor Attacked Hulk with power 40
+Hulk Blocked the attack
+Hulk has 21.85 HP remaining
+Hulk Attacked Thor with power 54.4
+Thor Blocked the attack
+Thor has 251.6 HP remaining
+Thor Attacked Hulk with power 58.4
+Hulk Blocked the attack
+Hulk has 21.85 HP remaining
+Hulk Attacked Thor with power 45.6
+Thor's Defence absorbed 42 points
+Thor has 248 HP remaining
+Thor Attacked Hulk with power 78.4
+Hulk's Defence absorbed 30 points
+Hulk has 0 HP remaining
+Battle Over.Thor is the winner
+
+Thor attacks first
+Thor Attacked Hulk with power 74.4
+Hulk's Defence absorbed 37.5 points
+Hulk has 1163.1 HP remaining
+Hulk Attacked Thor with power 50.4
+Thor's Defence absorbed 0 points
+Thor has 1149.6 HP remaining
+Thor Attacked Hulk with power 65.6
+Hulk's Defence absorbed 39 points
+Hulk has 1136.5 HP remaining
+Hulk Attacked Thor with power 62.4
+Thor's Defence absorbed 12 points
+Thor has 1099.2 HP remaining
+Thor Attacked Hulk with power 52
+Hulk's Defence absorbed 14.25 points
+Hulk has 1098.75 HP remaining
+Hulk Attacked Thor with power 73.6
+Thor's Defence absorbed 0 points
+Thor has 1025.6 HP remaining
+Thor Attacked Hulk with power 71.2
+Hulk's Defence absorbed 24.75 points
+Hulk has 1052.3 HP remaining
+Hulk Attacked Thor with power 45.6
+Thor's Defence absorbed 17.25 points
+Thor has 997.25 HP remaining
+Thor Attacked Hulk with power 56
+Hulk Blocked the attack
+Hulk has 1052.3 HP remaining
+Hulk Attacked Thor with power 64
+Thor's Defence absorbed 0 points
+Thor has 933.25 HP remaining
+Thor Attacked Hulk with power 60.8
+Hulk's Defence absorbed 32.25 points
+Hulk has 1023.75 HP remaining
+Hulk Attacked Thor with power 66.4
+Thor's Defence absorbed 0 points
+Thor has 866.85 HP remaining
+Thor Attacked Hulk with power 51.2
+Hulk's Defence absorbed 32.25 points
+Hulk has 1004.8 HP remaining
+Hulk Attacked Thor with power 55.2
+Thor's Defence absorbed 40.5 points
+Thor has 852.15 HP remaining
+Thor Attacked Hulk with power 76
+Hulk's Defence absorbed 32.25 points
+Hulk has 961.05 HP remaining
+Hulk Attacked Thor with power 64
+Thor's Defence absorbed 57.75 points
+Thor has 845.9 HP remaining
+Thor Attacked Hulk with power 76.8
+Hulk's Defence absorbed 30 points
+Hulk has 914.25 HP remaining
+Hulk Attacked Thor with power 79.2
+Thor's Defence absorbed 0 points
+Thor has 766.7 HP remaining
+Thor Attacked Hulk with power 50.4
+Hulk's Defence absorbed 0 points
+Hulk has 863.85 HP remaining
+Hulk Attacked Thor with power 58.4
+Thor's Defence absorbed 24.75 points
+Thor has 733.05 HP remaining
+Thor Attacked Hulk with power 52.8
+Hulk Blocked the attack
+Hulk has 863.85 HP remaining
+Hulk Attacked Thor with power 56
+Thor's Defence absorbed 45 points
+Thor has 722.05 HP remaining
+Thor Attacked Hulk with power 57.6
+Hulk's Defence absorbed 0 points
+Hulk has 806.25 HP remaining
+Hulk Attacked Thor with power 72
+Thor's Defence absorbed 24 points
+Thor has 674.05 HP remaining
+Thor Attacked Hulk with power 52.8
+Hulk's Defence absorbed 35.25 points
+Hulk has 788.7 HP remaining
+Hulk Attacked Thor with power 71.2
+Thor's Defence absorbed 0 points
+Thor has 602.85 HP remaining
+Thor Attacked Hulk with power 58.4
+Hulk's Defence absorbed 42 points
+Hulk has 772.3 HP remaining
+Hulk Attacked Thor with power 44.8
+Thor's Defence absorbed 0 points
+Thor has 558.05 HP remaining
+Thor Attacked Hulk with power 53.6
+Hulk Blocked the attack
+Hulk has 772.3 HP remaining
+Hulk Attacked Thor with power 74.4
+Thor's Defence absorbed 19.5 points
+Thor has 503.15 HP remaining
+Thor Attacked Hulk with power 76.8
+Hulk's Defence absorbed 71.25 points
+Hulk has 766.75 HP remaining
+Hulk Attacked Thor with power 51.2
+Thor Blocked the attack
+Thor has 503.15 HP remaining
+Thor Attacked Hulk with power 44
+Hulk Blocked the attack
+Hulk has 766.75 HP remaining
+Hulk Attacked Thor with power 49.6
+Thor's Defence absorbed 0 points
+Thor has 453.55 HP remaining
+Thor Attacked Hulk with power 68
+Hulk's Defence absorbed 66.75 points
+Hulk has 765.5 HP remaining
+Hulk Attacked Thor with power 54.4
+Thor's Defence absorbed 34.5 points
+Thor has 433.65 HP remaining
+Thor Attacked Hulk with power 70.4
+Hulk's Defence absorbed 0 points
+Hulk has 695.1 HP remaining
+Hulk Attacked Thor with power 75.2
+Thor's Defence absorbed 57.75 points
+Thor has 416.2 HP remaining
+Thor Attacked Hulk with power 68.8
+Hulk's Defence absorbed 57.75 points
+Hulk has 684.05 HP remaining
+Hulk Attacked Thor with power 59.2
+Thor's Defence absorbed 33.75 points
+Thor has 390.75 HP remaining
+Thor Attacked Hulk with power 71.2
+Hulk's Defence absorbed 31.5 points
+Hulk has 644.35 HP remaining
+Hulk Attacked Thor with power 48
+Thor's Defence absorbed 14.25 points
+Thor has 357 HP remaining
+Thor Attacked Hulk with power 55.2
+Hulk's Defence absorbed 18.75 points
+Hulk has 607.9 HP remaining
+Hulk Attacked Thor with power 77.6
+Thor's Defence absorbed 30.75 points
+Thor has 310.15 HP remaining
+Thor Attacked Hulk with power 67.2
+Hulk's Defence absorbed 45 points
+Hulk has 585.7 HP remaining
+Hulk Attacked Thor with power 72
+Thor's Defence absorbed 0 points
+Thor has 238.15 HP remaining
+Thor Attacked Hulk with power 79.2
+Hulk's Defence absorbed 0 points
+Hulk has 506.5 HP remaining
+Hulk Attacked Thor with power 40.8
+Thor Blocked the attack
+Thor has 238.15 HP remaining
+Thor Attacked Hulk with power 64.8
+Hulk's Defence absorbed 30.75 points
+Hulk has 472.45 HP remaining
+Hulk Attacked Thor with power 56
+Thor's Defence absorbed 0 points
+Thor has 182.15 HP remaining
+Thor Attacked Hulk with power 52
+Hulk Blocked the attack
+Hulk has 472.45 HP remaining
+Hulk Attacked Thor with power 52
+Thor's Defence absorbed 15 points
+Thor has 145.15 HP remaining
+Thor Attacked Hulk with power 72.8
+Hulk's Defence absorbed 45.75 points
+Hulk has 445.4 HP remaining
+Hulk Attacked Thor with power 62.4
+Thor Blocked the attack
+Thor has 145.15 HP remaining
+Thor Attacked Hulk with power 48
+Hulk's Defence absorbed 39.75 points
+Hulk has 437.15 HP remaining
+Hulk Attacked Thor with power 67.2
+Thor's Defence absorbed 54.75 points
+Thor has 132.7 HP remaining
+Thor Attacked Hulk with power 43.2
+Hulk's Defence absorbed 30.75 points
+Hulk has 424.7 HP remaining
+Hulk Attacked Thor with power 71.2
+Thor Blocked the attack
+Thor has 132.7 HP remaining
+Thor Attacked Hulk with power 74.4
+Hulk's Defence absorbed 14.25 points
+Hulk has 364.55 HP remaining
+Hulk Attacked Thor with power 41.6
+Thor Blocked the attack
+Thor has 132.7 HP remaining
+Thor Attacked Hulk with power 72
+Hulk's Defence absorbed 16.5 points
+Hulk has 309.05 HP remaining
+Hulk Attacked Thor with power 72
+Thor's Defence absorbed 0 points
+Thor has 60.6999 HP remaining
+Thor Attacked Hulk with power 59.2
+Hulk's Defence absorbed 35.25 points
+Hulk has 285.1 HP remaining
+Hulk Attacked Thor with power 60.8
+Thor Blocked the attack
+Thor has 60.6999 HP remaining
+Thor Attacked Hulk with power 48
+Hulk Blocked the attack
+Hulk has 285.1 HP remaining
+Hulk Attacked Thor with power 69.6
+Thor's Defence absorbed 0 points
+Thor has 0 HP remaining
+Battle Over.Hulk is the winner
+
+Hulk attacks first
+Hulk Attacked Thor with power 57.6
+Thor Blocked the attack
+Thor has 1200 HP remaining
+Thor Attacked Hulk with power 42.4
+Hulk's Defence absorbed 28.5 points
+Hulk has 1186.1 HP remaining
+Hulk Attacked Thor with power 68
+Thor's Defence absorbed 54 points
+Thor has 1186 HP remaining
+Thor Attacked Hulk with power 58.4
+Hulk's Defence absorbed 52.5 points
+Hulk has 1180.2 HP remaining
+Hulk Attacked Thor with power 69.6
+Thor's Defence absorbed 19.5 points
+Thor has 1135.9 HP remaining
+Thor Attacked Hulk with power 64
+Hulk's Defence absorbed 0 points
+Hulk has 1116.2 HP remaining
+Hulk Attacked Thor with power 51.2
+Thor Blocked the attack
+Thor has 1135.9 HP remaining
+Thor Attacked Hulk with power 52
+Hulk's Defence absorbed 30.75 points
+Hulk has 1094.95 HP remaining
+Hulk Attacked Thor with power 41.6
+Thor's Defence absorbed 0 points
+Thor has 1094.3 HP remaining
+Thor Attacked Hulk with power 48.8
+Hulk Blocked the attack
+Hulk has 1094.95 HP remaining
+Hulk Attacked Thor with power 56
+Thor Blocked the attack
+Thor has 1094.3 HP remaining
+Thor Attacked Hulk with power 49.6
+Hulk Blocked the attack
+Hulk has 1094.95 HP remaining
+Hulk Attacked Thor with power 64.8
+Thor's Defence absorbed 38.25 points
+Thor has 1067.75 HP remaining
+Thor Attacked Hulk with power 41.6
+Hulk's Defence absorbed 31.5 points
+Hulk has 1084.85 HP remaining
+Hulk Attacked Thor with power 63.2
+Thor Blocked the attack
+Thor has 1067.75 HP remaining
+Thor Attacked Hulk with power 53.6
+Hulk's Defence absorbed 47.25 points
+Hulk has 1078.5 HP remaining
+Hulk Attacked Thor with power 52.8
+Thor's Defence absorbed 0 points
+Thor has 1014.95 HP remaining
+Thor Attacked Hulk with power 40
+Hulk Blocked the attack
+Hulk has 1078.5 HP remaining
+Hulk Attacked Thor with power 45.6
+Thor Blocked the attack
+Thor has 1014.95 HP remaining
+Thor Attacked Hulk with power 61.6
+Hulk Blocked the attack
+Hulk has 1078.5 HP remaining
+Hulk Attacked Thor with power 51.2
+Thor's Defence absorbed 27.75 points
+Thor has 991.5 HP remaining
+Thor Attacked Hulk with power 76
+Hulk's Defence absorbed 23.25 points
+Hulk has 1025.75 HP remaining
+Hulk Attacked Thor with power 40
+Thor's Defence absorbed 0 points
+Thor has 951.5 HP remaining
+Thor Attacked Hulk with power 60.8
+Hulk's Defence absorbed 21 points
+Hulk has 985.95 HP remaining
+Hulk Attacked Thor with power 56
+Thor Blocked the attack
+Thor has 951.5 HP remaining
+Thor Attacked Hulk with power 55.2
+Hulk's Defence absorbed 15 points
+Hulk has 945.75 HP remaining
+Hulk Attacked Thor with power 72
+Thor's Defence absorbed 30 points
+Thor has 909.5 HP remaining
+Thor Attacked Hulk with power 46.4
+Hulk's Defence absorbed 11.25 points
+Hulk has 910.6 HP remaining
+Hulk Attacked Thor with power 79.2
+Thor's Defence absorbed 34.5 points
+Thor has 864.8 HP remaining
+Thor Attacked Hulk with power 70.4
+Hulk's Defence absorbed 49.5 points
+Hulk has 889.7 HP remaining
+Hulk Attacked Thor with power 49.6
+Thor's Defence absorbed 0 points
+Thor has 815.2 HP remaining
+Thor Attacked Hulk with power 75.2
+Hulk's Defence absorbed 39.75 points
+Hulk has 854.25 HP remaining
+Hulk Attacked Thor with power 72.8
+Thor's Defence absorbed 16.5 points
+Thor has 758.9 HP remaining
+Thor Attacked Hulk with power 56
+Hulk's Defence absorbed 19.5 points
+Hulk has 817.75 HP remaining
+Hulk Attacked Thor with power 44
+Thor Blocked the attack
+Thor has 758.9 HP remaining
+Thor Attacked Hulk with power 40.8
+Hulk Blocked the attack
+Hulk has 817.75 HP remaining
+Hulk Attacked Thor with power 46.4
+Thor's Defence absorbed 36 points
+Thor has 748.5 HP remaining
+Thor Attacked Hulk with power 48
+Hulk's Defence absorbed 0 points
+Hulk has 769.75 HP remaining
+Hulk Attacked Thor with power 69.6
+Thor's Defence absorbed 0 points
+Thor has 678.9 HP remaining
+Thor Attacked Hulk with power 64
+Hulk Blocked the attack
+Hulk has 769.75 HP remaining
+Hulk Attacked Thor with power 50.4
+Thor Blocked the attack
+Thor has 678.9 HP remaining
+Thor Attacked Hulk with power 47.2
+Hulk's Defence absorbed 31.5 points
+Hulk has 754.05 HP remaining
+Hulk Attacked Thor with power 62.4
+Thor's Defence absorbed 48 points
+Thor has 664.5 HP remaining
+Thor Attacked Hulk with power 75.2
+Hulk Blocked the attack
+Hulk has 754.05 HP remaining
+Hulk Attacked Thor with power 48.8
+Thor's Defence absorbed 39 points
+Thor has 654.7 HP remaining
+Thor Attacked Hulk with power 50.4
+Hulk's Defence absorbed 0 points
+Hulk has 703.65 HP remaining
+Hulk Attacked Thor with power 77.6
+Thor's Defence absorbed 0 points
+Thor has 577.1 HP remaining
+Thor Attacked Hulk with power 69.6
+Hulk's Defence absorbed 0 points
+Hulk has 634.05 HP remaining
+Hulk Attacked Thor with power 52.8
+Thor's Defence absorbed 39.75 points
+Thor has 564.05 HP remaining
+Thor Attacked Hulk with power 73.6
+Hulk's Defence absorbed 43.5 points
+Hulk has 603.95 HP remaining
+Hulk Attacked Thor with power 44
+Thor Blocked the attack
+Thor has 564.05 HP remaining
+Thor Attacked Hulk with power 48
+Hulk's Defence absorbed 36.75 points
+Hulk has 592.7 HP remaining
+Hulk Attacked Thor with power 52
+Thor's Defence absorbed 34.5 points
+Thor has 546.55 HP remaining
+Thor Attacked Hulk with power 64.8
+Hulk's Defence absorbed 17.25 points
+Hulk has 545.15 HP remaining
+Hulk Attacked Thor with power 66.4
+Thor's Defence absorbed 0 points
+Thor has 480.15 HP remaining
+Thor Attacked Hulk with power 64.8
+Hulk's Defence absorbed 63.75 points
+Hulk has 544.1 HP remaining
+Hulk Attacked Thor with power 52
+Thor's Defence absorbed 16.5 points
+Thor has 444.65 HP remaining
+Thor Attacked Hulk with power 56.8
+Hulk's Defence absorbed 29.25 points
+Hulk has 516.55 HP remaining
+Hulk Attacked Thor with power 54.4
+Thor's Defence absorbed 0 points
+Thor has 390.25 HP remaining
+Thor Attacked Hulk with power 71.2
+Hulk's Defence absorbed 60.75 points
+Hulk has 506.1 HP remaining
+Hulk Attacked Thor with power 77.6
+Thor's Defence absorbed 51 points
+Thor has 363.65 HP remaining
+Thor Attacked Hulk with power 53.6
+Hulk's Defence absorbed 35.25 points
+Hulk has 487.75 HP remaining
+Hulk Attacked Thor with power 50.4
+Thor's Defence absorbed 41.25 points
+Thor has 354.5 HP remaining
+Thor Attacked Hulk with power 60
+Hulk's Defence absorbed 26.25 points
+Hulk has 454 HP remaining
+Hulk Attacked Thor with power 60
+Thor's Defence absorbed 0 points
+Thor has 294.5 HP remaining
+Thor Attacked Hulk with power 68
+Hulk's Defence absorbed 46.5 points
+Hulk has 432.5 HP remaining
+Hulk Attacked Thor with power 56.8
+Thor Blocked the attack
+Thor has 294.5 HP remaining
+Thor Attacked Hulk with power 74.4
+Hulk's Defence absorbed 57 points
+Hulk has 415.1 HP remaining
+Hulk Attacked Thor with power 64.8
+Thor Blocked the attack
+Thor has 294.5 HP remaining
+Thor Attacked Hulk with power 54.4
+Hulk's Defence absorbed 16.5 points
+Hulk has 377.2 HP remaining
+Hulk Attacked Thor with power 44
+Thor's Defence absorbed 21 points
+Thor has 271.5 HP remaining
+Thor Attacked Hulk with power 57.6
+Hulk's Defence absorbed 50.25 points
+Hulk has 369.85 HP remaining
+Hulk Attacked Thor with power 73.6
+Thor's Defence absorbed 48 points
+Thor has 245.9 HP remaining
+Thor Attacked Hulk with power 68.8
+Hulk's Defence absorbed 57 points
+Hulk has 358.05 HP remaining
+Hulk Attacked Thor with power 51.2
+Thor Blocked the attack
+Thor has 245.9 HP remaining
+Thor Attacked Hulk with power 66.4
+Hulk's Defence absorbed 24.75 points
+Hulk has 316.4 HP remaining
+Hulk Attacked Thor with power 69.6
+Thor Blocked the attack
+Thor has 245.9 HP remaining
+Thor Attacked Hulk with power 55.2
+Hulk Blocked the attack
+Hulk has 316.4 HP remaining
+Hulk Attacked Thor with power 57.6
+Thor Blocked the attack
+Thor has 245.9 HP remaining
+Thor Attacked Hulk with power 68
+Hulk's Defence absorbed 57 points
+Hulk has 305.4 HP remaining
+Hulk Attacked Thor with power 67.2
+Thor's Defence absorbed 37.5 points
+Thor has 216.2 HP remaining
+Thor Attacked Hulk with power 64
+Hulk's Defence absorbed 51 points
+Hulk has 292.4 HP remaining
+Hulk Attacked Thor with power 77.6
+Thor's Defence absorbed 0 points
+Thor has 138.6 HP remaining
+Thor Attacked Hulk with power 76
+Hulk's Defence absorbed 12.75 points
+Hulk has 229.15 HP remaining
+Hulk Attacked Thor with power 41.6
+Thor's Defence absorbed 33.75 points
+Thor has 130.75 HP remaining
+Thor Attacked Hulk with power 76.8
+Hulk Blocked the attack
+Hulk has 229.15 HP remaining
+Hulk Attacked Thor with power 58.4
+Thor Blocked the attack
+Thor has 130.75 HP remaining
+Thor Attacked Hulk with power 59.2
+Hulk's Defence absorbed 0 points
+Hulk has 169.95 HP remaining
+Hulk Attacked Thor with power 73.6
+Thor's Defence absorbed 0 points
+Thor has 57.15 HP remaining
+Thor Attacked Hulk with power 48
+Hulk's Defence absorbed 14.25 points
+Hulk has 136.2 HP remaining
+Hulk Attacked Thor with power 54.4
+Thor Blocked the attack
+Thor has 57.15 HP remaining
+Thor Attacked Hulk with power 47.2
+Hulk Blocked the attack
+Hulk has 136.2 HP remaining
+Hulk Attacked Thor with power 45.6
+Thor Blocked the attack
+Thor has 57.15 HP remaining
+Thor Attacked Hulk with power 56.8
+Hulk's Defence absorbed 55.5 points
+Hulk has 134.9 HP remaining
+Hulk Attacked Thor with power 68
+Thor's Defence absorbed 0 points
+Thor has 0 HP remaining
+Battle Over.Hulk is the winner
+
