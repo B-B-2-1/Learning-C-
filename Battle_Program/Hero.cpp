@@ -85,12 +85,12 @@ void startBattle(Hero* Aa,Hero* Ba)
     {
         A=Ba;
         B=Aa;
-    }
+    }                                               //Randomly choose who goes first 
     
-    ofstream myfile("Battlelog.txt",fstream::app);
+    ofstream myfile("Battlelog.txt",fstream::app);  //Opens a file to store battle log
 
     cout<<A->GetName()<<" attacks first"<<endl;
-    myfile<<A->GetName()<<" attacks first"<<endl;
+    myfile<<A->GetName()<<" attacks first"<<endl;   //Stores output sentence to the logfile also
     
     while(A->GetHP()>0 && B->GetHP()>0)
     {
