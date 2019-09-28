@@ -10,7 +10,7 @@ int GCD(int a,int b)
 }
 int main()
 {
-    int arr[] = {24,36,72,56,76};
+    int arr[] = {24,36,72,17,76};
     int c = arr[0];
     for(int i = 1;i<(sizeof(arr)/sizeof(int));i++)
     {
