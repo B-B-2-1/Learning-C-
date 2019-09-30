@@ -29,11 +29,18 @@ void make_linked_list(node* Head,int n)
 
 //fuction to reverse linked list
 /*
+
+ 0          1         2        3
 back---->current--->front--->
+ 0          1         2        3
 back<===>current    front--->
+ 0        1           2          3          4
     <===>back       current--->front----->
+ 0        1           2          3          4   
     <===>back<------current    front----->
+ 0        1          2           3          4   
              <------back       current--->front
+
 */
 node* reverse_Linked_list(node* head)
 {
